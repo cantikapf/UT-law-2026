@@ -1,0 +1,13 @@
+# Dependencies & Skills
+.scandinavian-skill/
+.taste-skill/
+__pycache__/
+*.pyc
+
+# Large raw PDF & HTML scrape files
+data_sources/*.pdf
+data_sources/*.html
+
+# OS metadata
+.DS_Store
+Thumbs.db

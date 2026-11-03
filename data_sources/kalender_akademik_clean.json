@@ -1,0 +1,176 @@
+[
+  {
+    "category": "Pendaftaran Mahasiswa Baru",
+    "activity": "Jalur Umum (Non RPL/Non Alih Kredit)",
+    "ganjil": "6 Mei – 26 Agustus 2024",
+    "genap": "17 Oktober 2024 – 17 Februari 2025*"
+  },
+  {
+    "category": "Pendaftaran Mahasiswa Baru",
+    "activity": "Jalur Rekognisi Pembelajaran Lampau (RPL)/Alih Kredit",
+    "ganjil": "6 Mei – 19 Agustus 2024",
+    "genap": "18 November 2024 – 22 Januari 2025"
+  },
+  {
+    "category": "Pembayaran LIP Admisi Mahasiswa Baru",
+    "activity": "Jalur Umum (Non RPL/Non Alih Kredit)",
+    "ganjil": "6 Mei – 27 Agustus 2024",
+    "genap": "17 Oktober 2024 – 21 Februari 2025*"
+  },
+  {
+    "category": "Pembayaran LIP Admisi Mahasiswa Baru",
+    "activity": "Jalur Rekognisi Pembelajaran Lampau (RPL)/Alih Kredit",
+    "ganjil": "6 Mei – 20 Agustus 2024",
+    "genap": "18 November 2024 – 30 Januari 2025"
+  },
+  {
+    "category": "Unggah Berkas Mahasiswa Baru",
+    "activity": "Jalur Umum (Non RPL/Non Alih Kredit)",
+    "ganjil": "6 Mei – 29 Agustus 2024",
+    "genap": "17 Oktober 2024 – 25 Februari 2025*"
+  },
+  {
+    "category": "Unggah Berkas Mahasiswa Baru",
+    "activity": "Jalur Rekognisi Pembelajaran Lampau (RPL)/Alih Kredit",
+    "ganjil": "6 Mei – 21 Agustus 2024",
+    "genap": "18 November 2024 – 5 Februari 2025"
+  },
+  {
+    "category": "Unggah Berkas Mahasiswa Baru",
+    "activity": "Registrasi Mata Kuliah",
+    "ganjil": "6 Mei – 5 September 2024",
+    "genap": "17 Oktober 2024 – 5 Maret 2025*"
+  },
+  {
+    "category": "Pembayaran Uang Kuliah",
+    "activity": "Pembayaran Uang Kuliah Jalur Umum (Non RPL/Non Alih Kredit)",
+    "ganjil": "6 Mei – 11 September 2024",
+    "genap": "17 Oktober 2024 – 10 Maret 2025*"
+  },
+  {
+    "category": "Pembayaran Uang Kuliah",
+    "activity": "Pembayaran Uang Kuliah Jalur Rekognisi Pembelajaran Lampau (RPL)/Alih Kredit dan On Going",
+    "ganjil": "",
+    "genap": "18 November 2024 – 5 Maret 2025"
+  },
+  {
+    "category": "Pembayaran Uang Kuliah",
+    "activity": "Registrasi TTM Atas Permintaan Mahasiswa",
+    "ganjil": "6 Mei – 18 September 2024",
+    "genap": "17 Oktober 2024 – 12 Maret 2025"
+  },
+  {
+    "category": "Pembayaran Uang Kuliah",
+    "activity": "Pembayaran TTM Atas Permintaan Mahasiswa",
+    "ganjil": "6 Mei – 20 September 2024",
+    "genap": "17 Oktober 2024 – 15 Maret 2025"
+  },
+  {
+    "category": "Pembayaran Uang Kuliah",
+    "activity": "Dies Natalis Universitas Terbuka",
+    "ganjil": "4 September 2024",
+    "genap": "4 September 2025"
+  },
+  {
+    "category": "Pembayaran Uang Kuliah",
+    "activity": "Aktivasi dan Pengisian Form Kesediaan  Mengikuti Tutorial Online",
+    "ganjil": "7 Mei – 23 September 2024",
+    "genap": "18 Oktober 2024 – 24 Maret 2025"
+  },
+  {
+    "category": "Layanan Pendukung Kesuksesan Belajar Jarak Jauh Mahasiswa Baru",
+    "activity": "Orientasi Studi Mahasiswa Baru (OSMB) – Pelatihan Keterampilan Belajar Jarak Jauh (PKBJJ)",
+    "ganjil": "23 Juni – 22 September 2024",
+    "genap": "21 Desember 2024 – 23 Maret 2025"
+  },
+  {
+    "category": "Layanan Pendukung Kesuksesan Belajar Jarak Jauh",
+    "activity": "Workshop Tugas – Klinik Ujian",
+    "ganjil": "23 Juni – 27 Oktober 2024",
+    "genap": "21 Desember 2024 – 27 April 2025"
+  },
+  {
+    "category": "Pengumuman Lulusan",
+    "activity": "Tahap I",
+    "ganjil": "24 September 2024",
+    "genap": "14 April 2025*"
+  },
+  {
+    "category": "Pengumuman Lulusan",
+    "activity": "Tahap II",
+    "ganjil": "15 Oktober 2024",
+    "genap": "14 Mei 2025*"
+  },
+  {
+    "category": "Pengumuman Lulusan",
+    "activity": "Tutorial Tatap Muka (TTM)",
+    "ganjil": "5 Oktober – 8 Desember 2024",
+    "genap": "5 April – 8 Juni 2025"
+  },
+  {
+    "category": "Pengumuman Lulusan",
+    "activity": "Tutorial Online (Tuton)",
+    "ganjil": "14 Oktober – 8 Desember 2024",
+    "genap": "14 April – 8 Juni 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Tugas Mata Kuliah 1",
+    "ganjil": "28 Oktober – 3 November 2024",
+    "genap": "28 April – 4 Mei 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Tugas Mata Kuliah 2",
+    "ganjil": "11 – 17 November 2024",
+    "genap": "12 – 18 Mei 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Tugas Mata Kuliah 3",
+    "ganjil": "25 November – 1 Desember 2024",
+    "genap": "26 Mei – 1 Juni 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Bimbingan dan Unggah Karya Ilmiah",
+    "ganjil": "14 Oktober – 22 Desember 2024",
+    "genap": "14 April – 23 Juni 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Wisuda",
+    "ganjil": "11 – 12 November 2024 (Wisuda Periode I Wilayah I Tahun Akademik 2024/2025) 18 – 19 November 2024 (Wisuda Periode I Wilayah II Tahun Akademik 2024/2025)",
+    "genap": "8 Juli 2025 (Wisuda Periode II Wilayah I Tahun Akademik 2024/2025)*15 Juli 2025 (Wisuda Periode II Wilayah II Tahun Akademik 2024/2025)*29 Juli 2025 (Wisuda Periode II Wilayah III Tahun Akademik 2024/2025)*"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Pencetakan KTPU melalui Lamanhttps://myut.ut.ac.id",
+    "ganjil": "11 November 2024 – 25 Januari 2025",
+    "genap": "12 Mei – 26 Juli 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Batas Akhir Mengunggah Laporan Praktik/Praktikum ke Lamanhttps://praktik.ut.ac.id",
+    "ganjil": "22 Desember 2024",
+    "genap": "23 Juni 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Ujian Akhir Semester (Tatap Muka)",
+    "ganjil": "14 dan 15 Desember 2024",
+    "genap": "14 dan 15 Juni 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Ujian Akhir Semester (Ujian Online)",
+    "ganjil": "10 Desember 2024 – 26 Januari 2025",
+    "genap": "10 Juni – 27 Juli 2025"
+  },
+  {
+    "category": "Tugas Mata Kuliah",
+    "activity": "Pengumuman Nilai Akhir Mata Kuliah",
+    "ganjil": "5 Februari 2025",
+    "genap": "6 Agustus 2025"
+  }
+]

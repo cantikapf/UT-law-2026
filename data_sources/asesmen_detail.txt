@@ -1,0 +1,1184 @@
+*** PDF PAGE 223 ***
+192 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+VI. ASESMEN HASIL BELAJAR  
+ 
+Hasil belajar mahasiswa UT diukur melalui Ujian Akhir Semester 
+(UAS), pengerjaan tugas dan partisipasi dalam kegiatan TTM/Tuweb atau 
+Tuton, Praktik atau Praktikum, dan Tugas Akhir Program Sarjana (TAPS).  
+ 
+A. JENIS ASESMEN HASIL BELAJAR (AHB) 
+ 
+1.  Ujian Akhir Semester (UAS) 
+Hasil belajar mahasiswa dalam satu semester diukur melalui Ujian Akhir 
+Semester  (UAS). Ada tiga skema layanan UAS yaitu Ujian Tatap Muka, 
+Ujian Online, dan Ujian Take Home Exam. 
+a. 
+Ujian Tatap Muka (UTM) 
+Bentuk soal UTM seluruhnya berupa tes objektif  (pilihan ganda). 
+Jawaban UTM dikerjakan pada  Lembar Jawaban Ujian (LJU). UTM 
+diselenggarakan 
+secara 
+serentak 
+pada 
+tanggal, 
+jam, 
+dan 
+tempat/wilayah/lokasi ujian yang ditentukan oleh UT (lihat  Lampiran 
+7). Apabila mahasiswa tidak dapat mengikuti UTM di wilayah 
+tempat/wilayah/lokasi ujian yang ditentukan oleh UT, mahasiswa dapat 
+mengajukan untuk menumpang ujian ke UT Daerah agar dapat 
+mengikuti ujian sesuai lokasi mahasiswa berada.  
+Mahasiswa dapat mengajukan pindah skema UTM ke Ujian Online di 
+luar jadwal UTM sesuai dengan ketentuan yang berlaku.  
+b. Ujian Online (UO) 
+Bentuk soal UO berupa tes objektif (pilihan ganda) atau tes uraian (esai). 
+Untuk ujian UO berupa tes objektif jawaban langsung dikerjakan pada 
+tempat jawaban yang telah disediakan di aplikasi pada laman 
+http://suo.ut.ac.id secara online. Hasil jumlah jawaban benar dapat 
+diketahui oleh mahasiswa setelah selesai mengerjakan UO.  
+Untuk ujian UO berupa tes uraian pada beberapa mata kuliah, jawaban 
+dapat dikerjakan di tempat jawaban yang telah disediakan di aplikasi 
+pada laman http://suo.ut.ac.id secara online. Namun untuk beberapa mata 
+kuliah mahasiswa mengerjakan pada Buku Jawaban Ujian (BJU)  dan 
+hasil BJU diunggah oleh panita di laman https://suo.ut.ac.id. Daftar mata 
+kuliah UO berupa tes uraian yang disediakan tempat jawaban pada 
+aplikasi sesuai dengan Surat Edaran Wakil Rektor Bidang Akademik dan 
+Kemahasiswaan.   
+
+*** PDF PAGE 224 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+193 
+ 
+ 
+UO dilaksanakan melalui 2 (dua) jenis layanan, yakni: 
+1) Ujian Online Live Proctoring (UOLP) 
+a) Dilaksanakan di Kantor UT Daerah atau di tempat UO yang 
+telah ditentukan  oleh UT Daerah.  
+b) Hari, tanggal, dan jam UO ditetapkan oleh UT Daerah. 
+c) Untuk dapat mengikuti UOLP, mahasiswa harus datang ke 
+tempat UO sesuai dengan jadwal yang sudah ditetapkan oleh 
+UT Daerah dengan membawa Kartu Mahasiswa atau KTP/SIM. 
+Password UO diperoleh di Kartu Tanda Peserta Ujian Online 
+(KTPUO) di https://myut.ut.ac.id. 
+d) Untuk tes uraian (esai), hasil BJU diunggah oleh petugas UT 
+Daerah di laman https://suo.ut.ac.id setelah mahasiswa selesai 
+ujian. 
+ 
+2) Ujian  Automated  Online Proctoring (UAOP) 
+a) Pelaksanaan UAOP dapat diikuti oleh mahasiswa yang tidak 
+dapat mengikuti UOLP dengan melaporkan ke UT Daerah.  
+b) UAOP dilaksanakan di tempat domisili mahasiswa atau tempat 
+yang diinginkan oleh mahasiswa. 
+c) Hari, tanggal, dan jam ujian online ditetapkan oleh UT Daerah. 
+d) Mahasiswa wajib memiliki peralatan komputer yang terhubung 
+jaringan internet, smartphone camera dan web camera. Apabila 
+pada saat pelaksanaan UAOP mahasiswa tidak memiliki salah 
+satu atau lebih peralatan yang diwajibkan maka mahasiswa 
+akan dianggap tidak mengikuti ujian. Mahasiswa dapat 
+melakukan pindah skema layanan ujian ke UOLP sesuai 
+ketentuan yang berlaku.  
+e) Pengawasan ujian dilakukan oleh sistem secara otomatis, tanpa 
+pengawasan oleh petugas ujian. 
+ 
+c. 
+Ujian Take Home Exam (THE)  
+1) THE merupakan salah satu skema layanan ujian untuk mengukur 
+kemampuan mahasiswa untuk dapat menerapkan konsep atau 
+kompetensi esensial suatu mata kuliah dalam sebuah konteks. 
+Bentuk soal THE berupa tes uraian, tugas, projek, atau bentuk lain. 
+Pelaksanaan THE dapat dilakukan mahasiswa di tempat domisili 
+mahasiswa atau tempat yang diinginkan. Pelaksanaan THE bersifat 
+buka buku (open book) untuk seluruh mata kuliah THE, dengan 
+tetap menaati dan menjunjung tinggi integritas akademik yang 
+berlaku. Teknis pelaksanaan THE dapat dilakukan sebagai berikut. 
+
+*** PDF PAGE 225 ***
+194 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+2) Naskah soal dan Buku Jawaban Ujian (BJU) UAS THE mata kuliah 
+diunduh (download) dan diunggah (upload) secara online pada 
+laman https://the.ut.ac.id. 
+3) Waktu ujian disesuaikan dengan jam ujian yang tertera pada 
+Struktur Kurikulum Prodi. Setiap jam ujian diujikan dalam waktu 
+24 jam. 
+4) Waktu pengerjaan ujian mulai dari unduh naskah ujian sampai 
+dengan unggah Buku Jawaban Ujian (BJU) UAS THE selama 6 jam. 
+5) Khusus bagi mahasiswa yang memiliki jam ujian mata kuliah 
+‘bentrok’ dengan mata kuliah lain, peserta ujian harus mengunduh 
+dan mengerjakan soal UAS THE, serta mengunggah BJU UAS THE 
+pada satu hari yang sama. 
+6) Peserta ujian dapat mengakses laman THE di https://the.ut.ac.id/ 
+dengan menggunakan password yang terdapat pada KTPU UAS 
+THE yang dapat diunduh pada laman https://myut.ut.ac.id. 
+ 
+2. Penilaian Tutorial 
+ 
+a. 
+Penilaian Tutorial Tatap Muka (TTM) dan Tutorial Webinar (Tuweb) 
+ 
+Tabel 6.1  
+Penilaian TTM/Tuweb 
+ 
+No. 
+Jenis Asesmen Hasil Belajar 
+Kontribusi nilai 
+terhadap 
+nilai akhir mata 
+kuliah 
+Masa 
+Berlaku 
+1. 
+TTM/Tuweb mata kuliah untuk 
+Program Sarjana dan Diploma 
+50% 
+1 
+semester 
+ 
+Nilai TTM/Tuweb akan berkontribusi sebesar 50% terhadap nilai akhir 
+mata kuliah hanya jika skor UAS mencapai minimal 30% dari skor 
+maksimal dan nilai TTM/Tuweb lebih besar dari nilai UAS. 
+ 
+ 
+ 
+ 
+ 
+
+*** PDF PAGE 226 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+195 
+ 
+ 
+b. Penilaian Tutorial Online (Tuton)  
+ 
+Tabel 6.2  
+Penilaian Tutorial Online (Tuton) 
+ 
+No. 
+Jenis Asesmen Hasil Belajar 
+Kontribusi nilai 
+terhadap  
+nilai akhir mata 
+kuliah  
+Masa 
+Berlaku 
+1. Tuton mata kuliah untuk Program Sarjana 
+dan Diploma 
+30% 
+1 semester 
+ 
+Nilai Tuton akan berkontribusi sebesar 30% terhadap nilai akhir mata 
+kuliah hanya jika skor UAS mencapai minimal 30% dari skor maksimal 
+dan nilai Tuton lebih besar dari nilai UAS. 
+ 
+Keterangan:  
+Jika mahasiswa memiliki nilai TTM/Tuweb, dan/atau nilai tuton, maka 
+nilai yang diperhitungkan adalah nilai yang berkontribusi tertinggi terhadap 
+nilai akhir mata kuliah. 
+ 
+Tabel 6.3 
+Simulasi Penghitungan Nilai Akhir Mata Kuliah 
+ 
+No. 
+Contoh Nilai MK 
+Perhitungan Nilai MK 
+Nilai Akhir MK 
+1. 
+Jika mahasiswa mendapatkan nilai UAS lebih dari nilai TTM/Tuweb 
+• UAS: 80 
+• TTM/Tuweb: 60 
+• 100% UAS x 80 = 80 
+• (50% UAS x 80) + 
+(50% TTM/Tuweb x 
+60) = 70 
+Maka nilai akhir 
+mata kuliah:  
+80 
+(Diambil nilai 
+tertinggi dari 100% 
+UAS) 
+ 
+ 
+ 
+
+*** PDF PAGE 227 ***
+196 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+No. 
+Contoh Nilai MK 
+Perhitungan Nilai MK 
+Nilai Akhir MK 
+2. 
+Jika mahasiswa mendapatkan nilai UAS kurang dari nilai TTM/Tuweb 
+• UAS: 40 
+• TTM/Tuweb: 90 
+ 
+• 100% UAS x 40  = 40 
+• (50% UAS x 40) + (50% 
+TTM/Tuweb x 90) = 65 
+Maka nilai akhir 
+mata kuliah: 
+65 
+(Diambil nilai 
+tertinggi dari 50% 
+UAS dan 50% 
+TTM/Tuweb) 
+3. 
+Jika mahasiswa mendapatkan nilai UAS lebih dari nilai Tuton 
+ • UAS: 70 
+• Tuton: 50 
+• 100% UAS x 70  = 70 
+• (70% UAS x 70) + (30% 
+Tuton x 50) = 64 
+Maka nilai akhir 
+mata kuliah: 
+70 
+(Diambil nilai 
+tertinggi dari 100% 
+UAS) 
+4. 
+Jika mahasiswa mendapatkan nilai UAS kurang dari nilai Tuton  
+ • UAS: 50 
+• Tuton: 90 
+• 100% UAS x 50  = 50 
+• (70% UAS x 50) + (30% 
+Tuton x 90) = 62 
+Maka nilai akhir 
+mata kuliah: 
+62 
+(Diambil nilai 
+tertinggi dari 70% 
+UAS dan 30% 
+tuton) 
+5. 
+Jika mahasiswa mendapatkan nilai TTM/Tuweb dan nilai Tuton 
+ • UAS: 40 
+• TTM/Tuweb: 60 
+• Tuton: 100 
+• 100% UAS x 40  = 40 
+• (50% UAS x 40) + (50% 
+TTM/Tuweb x 60) = 50 
+• (70% UAS x 40) + (30% 
+Tuton x 100) = 58 
+Maka nilai akhir 
+mahasiswa: 
+58 
+(Diambil nilai 
+tertinggi dari 70% 
+UAS dan 30% 
+tuton) 
+ 
+
+*** PDF PAGE 228 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+197 
+ 
+ 
+3. Penilaian Praktik dan Praktikum 
+ 
+Penilaian praktik dan praktikum dijelaskan pada Tabel 6.4 berikut. 
+ 
+Tabel 6.4 
+Penilaian Praktik dan Praktikum 
+ 
+No. 
+Jenis Asesmen Hasil Belajar 
+Kontribusi nilai 
+terhadap  
+nilai akhir mata 
+kuliah  
+Masa Berlaku 
+1. 
+Mata kuliah Praktik/Praktikum (tanpa 
+UAS) 
+100% 
+1 semester 
+2. 
+Mata kuliah berpraktik/berpraktikum 
+(dengan UAS) melalui Praktik Tatap 
+Muka (PTM) atau Praktik Online 
+(Praton) 
+60% 
+1 semester 
+ 
+Ketentuan Komposisi Praktik/Praktikum 
+a. 
+Praktik/praktikum atau berpraktik/berpraktikum merupakan kegiatan 
+wajib. Nilai akhir mata kuliah akan diterbitkan dengan nilai ‘E’ apabila 
+nilai praktik/praktikum tidak ada. Ketentuan lebih lanjut tentang 
+pelaksanaan praktik/praktikum diatur dalam buku panduan tersendiri. 
+b. Penilaian Mata Kuliah Pemantapan Kemampuan Mengajar (PKM) diatur 
+dalam buku panduan tersendiri. 
+ 
+Tabel 6.5 
+Komposisi Penilaian PKM 
+ 
+Jenis Asesmen Hasil Belajar 
+ 
+Kontribusi Nilai Akhir 
+ 
+Pemantapan Kemampuan Mengajar 
+(PKM) Tanpa UAS 
+30% Penilaian Praktik Mengajar (P1) + 
+40% Penilaian Ujian PKM (P2) +  
+30% Penilaian Laporan PKM (P3) 
+ 
+ 
+ 
+
+*** PDF PAGE 229 ***
+198 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+c. 
+Praktikum pada Mata Kuliah Praktikum IPA di SD.  
+Nilai akhir mata kuliah Praktikum IPA di SD sepenuhnya (100%) berasal 
+dari nilai praktikum, yang ditentukan berdasarkan nilai proses 
+pelaksanaan praktikum dan nilai laporan praktikum. Penilaian praktikum 
+dilakukan oleh tutor/instruktur mata kuliah.   
+d. Praktik/praktikum pada Program Studi Agribisnis, Sistem Informasi, dan 
+Teknologi Pangan FST.  
+Nilai mata kuliah praktik/praktikum atau mata kuliah berpraktik/ 
+berpraktikum:  
+1) Program Studi Agribisnis 
+Nilai akhir mata kuliah berpraktik ditentukan berdasarkan dua 
+komponen penilaian, yaitu nilai praktik dan nilai Ujian Akhir 
+Semester (UAS). Nilai praktik diperoleh dari akumulasi nilai Tugas 
+1, Tugas 2, dan Tugas 3. Apabila nilai Tugas 1 dan/atau Tugas 2 
+dan/atau Tugas 3  tidak ada, maka nilai akhir mata kuliah akan 
+diterbitkan dengan nilai ‘E’. 
+2) Program Studi Sistem Informasi 
+Nilai akhir mata kuliah diperoleh dari nilai Tugas 1, Tugas 2, dan 
+Tugas 3. Apabila nilai Tugas 1 dan/atau Tugas 2 dan/atau Tugas 3  
+tidak ada maka nilai akhir mata kuliah akan diterbitkan dengan                
+nilai ‘E’.  
+3) Program Studi Teknologi Pangan 
+a) 
+Untuk mata kuliah: STTP4204 (Prinsip Teknik Pangan), 
+STTP4212 (Evaluasi Nilai Gizi Pangan), STTP4214 (Sistem 
+Jaminan Mutu di Industri Pangan), STTP4303 (Rancangan 
+Produk Pangan dan Gizi), STTP4305 (Pangan Halal), 
+STTP4318 
+(Perancangan 
+Unit 
+Pengolahan 
+Pangan), 
+STTP4401 (Rancangan Percobaan untuk Teknologi Pangan), 
+dan STTP4403 (Pengemasan dan Penyimpanan Pangan),  nilai 
+akhir mata kuliah diambil dari nilai praktik 60% (Tugas 1, 2, 
+dan 3) dan UAS (40%). 
+b) 
+Mata 
+kuliah: 
+STTP4207 
+(Praktik 
+Biokimia 
+Pangan), 
+STTP4307 
+(Pangan 
+Tradisional), 
+STTP4411 
+(Praktik 
+Kewirausahaan Produk Pangan), STTP4409 (Pemasaran dan 
+Fotografi Pangan), STTP4216 (Praktik Satuan Operasi Industri 
+Pangan), STTP4408 (Praktikum Evaluasi Sensori),  dan 
+STTP4407 (Praktikum Teknologi Pengolahan Pangan),  nilai 
+akhir mata kuliah diambil dari 100% nilai praktik (Tugas 1, 2, 
+
+*** PDF PAGE 230 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+199 
+ 
+ 
+dan 3). Pengerjaan tugas praktik harus lengkap, apabila salah 
+satu tugas tidak ada,  maka nilai akhir mata kuliah akan 
+diterbitkan dengan nilai ‘E’. 
+c)  
+Mata kuliah STTP4302 (Metodologi Penelitian) nilai akhir 
+diambil dari nilai praktik 100% (output berupa proposal 
+penelitian) dan mata kuliah STTP4460 (Artikel Ilmiah) nilai 
+akhir diambil dari nilai praktik 100% (output berupa artikel 
+ilmiah). 
+d)  Mata kuliah STTP4205 (Praktikum Kimia dan Analisis 
+Pangan) dan STTP4206 (Praktikum Mikrobiologi dan Sanitasi 
+Pangan) dilaksanakan di laboratorium pada mitra yang telah 
+bekerjasama dengan prodi Teknologi Pangan FST UT. Nilai 
+akhir mata kuliah diambil dari 100% nilai praktikum (terdiri 
+dari kegiatan praktikum dan laporan praktikum). 
+ 
+4. Tugas Akhir Program Sarjana (TAPS) 
+TAPS bertujuan untuk mengukur kemampuan mahasiswa secara 
+komprehensif dalam suatu bidang ilmu pada program studi jenjang D-IV dan 
+S1. Layanan asesmen TAPS dapat dikuti melalui a) Skripsi, b) Proyek, c) 
+Artikel Ilmiah, dan d) Ujian Komprehensif Tertulis (UKT). Materi TAPS 
+mencakup materi mata kuliah pendukung TAPS dari setiap program studi. 
+Daftar mata kuliah pendukung TAPS dapat dilihat pada Katalog Kurikulum.  
+ 
+Tabel 6.6 
+Komposisi Nilai Akhir TAPS 
+ 
+No. 
+Jenis Asesmen Hasil 
+Belajar 
+Komposisi  
+Nilai Akhir  
+Tugas Akhir Program Sarjana melalui: 
+a. 
+Skripsi 
+100% dari nilai Skripsi 
+b. 
+Proyek                  
+(Capstone Project) 
+100% dari Nilai Tutorial Online (20% Tugas 1 
++ 30% Tugas 2 + 50% Tugas 3) 
+c. 
+Artikel Ilmiah 
+100% dari nilai Artikel Ilmiah 
+d. 
+Ujian Komprehensif 
+Tertulis 
+70% nilai Ujian + 30% nilai Tuton atau 50% 
+nilai Ujian + 50% nilai TTM 
+ 
+ 
+
+*** PDF PAGE 231 ***
+200 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+B.  DASAR PENILAIAN  
+ 
+Komponen Penilaian Hasil Belajar 
+Komponen penilaian hasil belajar untuk setiap kelompok mata kuliah 
+Program Sarjana dan Program Diploma adalah sebagai berikut. 
+ 
+Tabel 6.7 
+Komponen Penilaian 
+ 
+No. 
+Jenis Asesmen Hasil Belajar 
+Nilai Akhir Mata Kuliah 
+1. 
+Mata Kuliah tidak berpraktik/ 
+berpraktikum dan tidak ikut 
+tutorial 
+UAS 
+2. 
+Mata kuliah tidak 
+berpraktik/berpraktikum dan 
+ikut tutorial 
+• Nilai UAS atau 
+• Nilai TTM/Tuweb dan/atau nilai 
+Tuton (diambil nilai yang 
+berkontribusi tertinggi terhadap nilai 
+akhir).  
+3. 
+Mata kuliah  
+berpraktik atau berpraktikum 
+• Nilai UAS dan  
+• Nilai Praktik atau praktikum (wajib 
+diikuti). 
+4. 
+Praktik atau Praktikum 
+Nilai praktik/praktikum 
+5. 
+Tugas Akhir Program Sarjana (TAPS): 
+ 
+a. Skripsi 
+Nilai Skripsi 
+ 
+b. Proyek 
+Nilai Proyek 
+ 
+c. Artikel Ilmiah 
+Nilai Artikel Ilmiah 
+ 
+d. Ujian Komprehensif Tertulis Nilai Ujian dan Nilai Tuton 
+ 
+Kategori Nilai Akhir Mata Kuliah dapat dilihat pada Tabel 6.8. 
+ 
+Tabel 6.8 
+Kategori Nilai 
+ 
+Kategori Nilai 
+Nilai Mutu/Bobot 
+Predikat Nilai 
+A 
+4,0 
+Sangat Baik 
+A- 
+3,5 
+Sangat Baik 
+B 
+3,0 
+Baik 
+B- 
+2,5 
+Baik 
+C 
+2,0 
+Cukup 
+
+*** PDF PAGE 232 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+201 
+ 
+ 
+Kategori Nilai 
+Nilai Mutu/Bobot 
+Predikat Nilai 
+C- 
+1,5 
+Cukup 
+D 
+1,0 
+Kurang 
+E 
+0,0 
+Tidak Lulus 
+ 
+C. PELAKSANAAN UJIAN AKHIR SEMESTER 
+ 
+1. Jadwal Ujian Akhir Semester 
+UT menyelenggarakan dua kali ujian setiap tahun. Pelaksanaan UAS 
+dapat dilihat pada kalender akademik yang diunduh melalui laman 
+https://myut.ut.ac.id. 
+ 
+a. 
+Ujian Tatap Muka (UTM) 
+Waktu ujian untuk setiap mata kuliah dapat dilihat pada Struktur 
+Kurikulum Prodi. Waktu ujian  ditandai dengan dua kode jenis angka yaitu 
+angka Romawi dan angka Arab seperti pada Tabel 6.9 berikut. 
+ 
+Tabel 6.9 
+Contoh Waktu Ujian layanan UTM 
+ 
+No. 
+Kode dan Nama Mata Kuliah 
+Sks 
+Waktu 
+Ujian 
+Keterangan 
+ 
+ 
+ 
+1. 
+ 
+2. 
+ 
+ 
+3. 
+ 
+ 
+   
+ 
+ 
+ 
+FSSP4406 
+ 
+ECON4101 
+ 
+ 
+FSIK4401 
+ 
+ 
+ 
+ 
+ 
+Etika Profesi Pajak 
+ 
+Pengantar Ekonomi 
+Makro 
+ 
+Praktik Kerja 
+Komunikasi 
+ 
+ 
+ 
+ 
+3 
+ 
+3 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+I.4 
+ 
+II.2 
+ 
+ 
+99 
+ 
+ 
+     Hari  pertama 
+     Jam keempat 
+ 
+ 
+ 
+Hari 
+kedua, 
+jam 
+kedua 
+ 
+Tidak ada UAS, nilai 
+diambil dari laporan 
+praktik  
+ 
+ 
+ 
+ 
+ 
+ 
+
+*** PDF PAGE 233 ***
+202 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+Hari ujian diberi kode dengan:  
+1) Angka Romawi menunjukkan hari ujian. Angka Romawi I menunjukan 
+pada hari pertama hari Sabtu dan angka Romawi II menunjukan pada 
+hari kedua hari minggu. 
+2) Angka Arab menunjukkan jam ujian. Satu hari ujian terdiri dari 5 jam 
+ujian dan waktu ujian disesuaikan dengan waktu setempat sebagai 
+berikut. 
+ 
+Tabel 6.10 
+Waktu UAS UTM Program Diploma dan Sarjana 
+ 
+Jam Ujian 
+WIB 
+WITA 
+WIT 
+1 
+2 
+3 
+4 
+5 
+07:00 - 08:30 
+08:45 - 10:15 
+10:30 - 12:00 
+12:45 - 14:15 
+14:30 - 16:00 
+08:00 - 09:30 
+09:45 - 11:15 
+11:30 - 13:00 
+13:45 - 15:15 
+15:30 - 17:00 
+09:00 - 10:30 
+10:45 - 12:15 
+12:30 - 14:00 
+14:45 - 16:15 
+16:30 - 18:00 
+ 
+Sebagai contoh, jam ujian mata kuliah  FSSP4406/Etika Profesi Pajak 
+(lihat Tabel 6.9) adalah I.4. Ini berarti mata kuliah tersebut diujikan pada hari 
+pertama jam keempat, yaitu: pukul 12:45 – 14:15 untuk WIB atau 13:45 - 
+15:15 untuk WITA atau 14:45 - 16:15 untuk WIT. 
+ 
+b. Ujian Online (UO) 
+Jadwal pelaksanaan UO disesuaikan dengan kondisi ketersediaan ruang 
+ujian dan rentang waktu pelaksanaan UO. Mahasiswa peserta UO dapat 
+mengatur jadwal ujian sesuai dengan kondisi ketersediaan ruang dan waktu 
+UO dengan menghubungi kantor UT Daerah setempat. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+*** PDF PAGE 234 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+203 
+ 
+ 
+Khusus untuk UKT pelaksanaan ujian hanya dilakukan melalui 
+skema UO. 
+ 
+Tabel 6.11 
+Sesi UO MK Program S1 per Hari Ujian 
+ 
+Sesi 
+Waktu 
+1 
+08:00 – 09:30 Waktu Setempat 
+2 
+09:45 – 11:15 Waktu Setempat 
+3 
+11:30 – 13:00 Waktu Setempat 
+4 
+13:45 – 15:15 Waktu Setempat 
+5 
+15:30 – 17:00 Waktu Setempat 
+ 
+Tabel 6.12 
+Sesi UO UKT per Hari Ujian 
+ 
+Sesi 
+Waktu 
+1 
+08:00 – 11:00 Waktu Setempat 
+2 
+13:00 – 16:00 Waktu Setempat 
+ 
+c. 
+Take Home Exam (THE) 
+Jadwal pelaksanaan ujian THE diatur tersendiri dan akan diinformasikan 
+kepada mahasiswa melalui laman https://myut.ut.ac.id/ dan UT Daerah satu 
+bulan sebelum pelaksanaan ujian. 
+ 
+2. Tempat dan Lokasi Ujian 
+ 
+a. 
+Ujian Tatap Muka (UTM) 
+UTM dilaksanakan di kota/kabupaten yang telah ditetapkan oleh UT 
+sebagai tempat/wilayah/lokasi ujian. Tempat/wilayah ujian dapat dilihat pada 
+Lampiran 7. Mahasiswa dapat memilih tempat/wilayah ujian  (dalam negeri) 
+di luar wilayah UT Daerah tempat mahasiswa terdaftar dengan cara mengisi 
+Kode Tempat Ujian yang diinginkan pada saat registrasi pertama dan 
+registrasi mata kuliah setiap semester. 
+ 
+
+*** PDF PAGE 235 ***
+204 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+Tempat/wilayah ujian terdiri dari beberapa lokasi ujian. Lokasi yang 
+digunakan untuk ujian adalah sekolah-sekolah atau perguruan tinggi atau 
+lokasi lain yang ditentukan oleh UT Daerah sebagai tempat pelaksanaan 
+ujian. Untuk memastikan lokasi dan ruang ujian, mahasiswa harus datang ke 
+lokasi ujian atau ke UT Daerah paling lambat sehari sebelum ujian 
+dilaksanakan. 
+ 
+b. Ujian Online (UO) 
+UO dilaksanakan di kota/kabupaten yang telah ditentukan oleh UT 
+Daerah sesuai dengan ketersediaan fasilitas pendukung pelaksanaan UO. 
+Mahasiswa dapat memilih tempat UO (dalam negeri) di luar wilayah UT 
+Daerah tempat mahasiswa terdaftar dengan cara menghubungi UT Daerah 
+setempat, selama kapasitas dan waktu masih tersedia. Untuk memastikan 
+lokasi dan ruang ujian, mahasiswa harus datang ke lokasi ujian atau ke UT 
+Daerah paling lambat sehari sebelum ujian dilaksanakan.  
+ 
+3.  Daftar Peserta dan Ruang Ujian 
+Informasi nama peserta, NIM, lokasi, ruang ujian, dan kode mata kuliah 
+yang akan diujikan, serta skema layanan ujian dapat dilihat di Kartu Tanda 
+Peserta Ujian (KTPU), baik untuk layanan UTM, UO dan THE. 
+Mahasiswa 
+dapat 
+mencetak 
+KTPU 
+sendiri 
+melalui 
+laman 
+https://myut.ut.ac.id/. Mahasiswa harus memeriksa kesesuaian kode mata 
+kuliah di KTPU dengan LIP-R, bila tidak sesuai segera melapor ke UT 
+Daerah setempat. 
+ 
+
+*** PDF PAGE 236 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+205 
+ 
+ 
+ 
+ 
+Gambar 6.1 
+Contoh KTPU UTM 
+ 
+ 
+ 
+Gambar 6.2 
+Contoh KTPUO 
+
+*** PDF PAGE 237 ***
+206 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+ 
+ 
+Gambar 6.3 
+Contoh KTPU THE 
+ 
+4. Menumpang Ujian 
+Mahasiswa dapat mengikuti ujian bukan pada tempat ujian yang telah 
+diregistrasikan (menumpang ujian) karena alasan tertentu. Menumpang ujian 
+(dalam negeri) dapat dilakukan di tempat-tempat ujian resmi. Untuk itu, 
+mahasiswa terlebih dahulu harus menyampaikan surat pengantar dari UT 
+Daerah asal (tempat ujian yang telah diregistrasikan) disertai LIP-R ke UT 
+Daerah tujuan serta menginformasikan tempat ujian yang dipilih, paling 
+lambat 15 (lima belas) hari sebelum pelaksanaan ujian.  
+Khusus bagi mahasiswa dalam negeri yang akan menumpang ujian di 
+luar negeri, harus menghubungi UT Daerah LLN paling lambat 1 (satu) 
+bulan sebelum pelaksanaan ujian dengan membawa surat pengantar dari UT 
+Daerah asal. Mahasiswa menumpang ujian hanya dapat dilayani di 
+negara/kota yang telah ditetapkan sebagai tempat ujian UT.  
+ Khusus bagi mahasiswa dalam negeri yang akan mengikuti ujian di 
+luar negeri, harus melakukan registrasi melalui UT Daerah LLN dengan 
+memilih  tempat ujian di negara yang dituju. Mahasiswa harus membayar 
+uang kuliah sesuai tarif  uang kuliah mahasiswa UT di negara yang dituju 
+tersebut, dengan ketentuan negara dan kota yang dituju penyelenggara         
+ujian UT. 
+
+*** PDF PAGE 238 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+207 
+ 
+ 
+5. Perubahan Skema Layanan Ujian dan Perubahan Jadwal Ujian 
+ 
+Mahasiswa dapat melakukan perubahan skema layanan ujian dari UTM 
+ke UO dengan melakukan registrasi pindah skema layanan ujian ke UT 
+Daerah serta membayar Lembar Informasi Pembayaran (LIP) perubahan 
+skema  ujian. Mahasiswa juga dapat melakukan perubahan jadwal UO dengan 
+melakukan registrasi pindah jadwal ujian ke UT Daerah serta membayar 
+Lembar Informasi Pembayaran (LIP) perubahan skema ujian.  
+ 
+Gambar 6.4 
+Contoh LIP Perubahan Skema Ujian 
+
+*** PDF PAGE 239 ***
+208 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+6. Remedial/ Ujian Ulang 
+Mahasiswa yang telah mengikuti UO mata kuliah dengan bentuk tes objektif 
+dapat mengajukan remedial/ujian ulang jika hasil jawaban benar yang 
+diperoleh mahasiswa belum mencapai standar kelulusan mata kuliah. 
+Pengajuan remedial/ujian ulang untuk setiap mata kuliah per semester 
+sebanyak-banyaknya 2 (dua) kali. Pengajuan remedial/ujian ulang  dapat 
+dilakukan dengan menghubungi UT Daerah untuk membuat registrasi serta 
+membayar Lembar Informasi Pembayaran (LIP) registrasi matakuliah 
+remedial UO.  
+ 
+ 
+Gambar 6.5 
+Contoh LIP Registrasi Matakuliah Remedial UO 
+
+*** PDF PAGE 240 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+209 
+ 
+ 
+7. 
+Pengumuman Hasil Ujian 
+Nilai UAS diumumkan paling cepat tujuh minggu setelah ujian hari 
+terakhir berlangsung. Nilai UAS tercantum dalam Daftar Nilai Ujian (DNU) 
+yang dapat diakses melalui laman https://myut.ut.ac.id/. 
+ 
+D. NILAI AKHIR MATA KULIAH 
+ 
+1.  Nilai  Akhir Mata Kuliah Setiap Semester 
+Nilai akhir mata kuliah setiap semester diumumkan dalam bentuk Daftar 
+Nilai Ujian (DNU). DNU memuat nilai akhir mata kuliah yang diikuti 
+mahasiswa dalam satu semester. Apabila pada DNU terdapat nilai yang 
+belum diterbitkan, mohon mahasiswa mencermati kolom keterangan yang 
+ada pada DNU, kemudian mengirimkan pengaduan nilai ujian sesuai dengan 
+aturan yang ada di katalog ini (Bab VIII Ketentuan Umum Administrasi 
+Akademik). 
+ 
+Nilai akhir mata kuliah diumumkan sesuai pada jadwal 
+yang tertera pada Kalender Akademik. Pengaduan nilai 
+ujian hanya dapat dilakukan paling lambat 3 (tiga) bulan 
+setelah pengumuman nilai akhir mata kuliah   
+ 
+Pada DNU terdapat informasi tentang Indeks Prestasi Semester (IPS). 
+Cara  menghitung IPS adalah sebagai berikut. 
+Misalnya, seorang mahasiswa meregistrasi mata kuliah: 
+ 
+ECON4101 
+(3 sks) 
+memperoleh nilai 
+B- 
+MKWN4110 
+(2 sks) 
+memperoleh nilai 
+D 
+EMBS4101 
+(4 sks) 
+memperoleh nilai 
+A- 
+ECON4102 
+(3 sks) 
+memperoleh nilai 
+B 
+ECON4103 
+(3 sks) 
+memperoleh nilai 
+A 
+MKWN4101 
+(3 sks) 
+memperoleh nilai 
+C 
+Jumlah sks 
+18 sks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+*** PDF PAGE 241 ***
+210 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+Konversi nilai huruf menjadi nilai mutu dengan ketentuan: 
+ 
+A = 4; A- = 3,5; B = 3; B- = 2,5; C = 2; C- =1,5; D = 1; E = 0.  
+ 
+ECON4101 
+= 
+(3 sks) x 2,5 (B-) 
+= 
+7,5 
+MKWN4110 
+= 
+(2 sks) x 1,0 (D) 
+= 
+  2,0 
+EMBS4101 
+= 
+(4 sks) x 3,5 (A-) 
+= 
+    14,0 
+ECON4102 
+= 
+(3 sks) x 3,0 (B) 
+= 
+9,0 
+ECON4103 
+= 
+(3 sks) x 4,0 (A) 
+= 
+     12,0 
+MKWN4101 
+= 
+(3 sks) x 2,0 (C) 
+= 
+6,0 
+Jumlah (sks × mutu) 
+= 
+     50,5 
+ 
+jumlah (sks 
+ mutu)
+50,5
+IPS = 
+2,81
+jumlah sks
+18
+
+
+  
+ 
+IPS yang diperoleh mahasiswa yang bersangkutan adalah 2,81. 
+ 
+2. Nilai Akhir Mata Kuliah Keseluruhan 
+Nilai akhir mata kuliah seluruh mata kuliah dan Indeks Prestasi 
+Kumulatif (IPK) yang telah diperoleh mahasiswa, dimuat dalam Lembar 
+Kemajuan Akademik Mahasiswa (LKAM) atau Transkrip Nilai 
+Sementara. Apabila suatu mata kuliah telah ditempuh lebih dari satu kali, 
+maka nilai yang dimuat dalam LKAM adalah nilai tertinggi. Mahasiswa 
+dapat melihat LKAM pada laman UT https://myut.ut.ac.id/. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+*** PDF PAGE 242 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+211 
+ 
+ 
+VII. SERTIFIKASI 
+ 
+A. PERSYARATAN KELULUSAN PROGRAM 
+ 
+Berdasarkan Peraturan  Rektor UT Nomor 18 Tahun 2017 tentang  
+Syarat Kelulusan dan Predikat Kelulusan bagi Mahasiswa UT dan syarat 
+kelulusan mahasiswa UT adalah sebagai berikut. 
+ 
+1.  Program Sarjana 
+a. 
+Lulus semua mata kuliah yang dipersyaratkan. 
+b. Lulus 
+TAPS 
+(sesuai 
+pilihan 
+mahasiswa: 
+UKT/Skripsi/Proyek/Artikel Ilmiah) dengan nilai minimal C 
+(khusus untuk mahasiswa FKIP yang memilih skripsi nilai               
+minimal B) bagi mahasiswa yang lulus program studi pada semester 
+2025/2026 Ganjil, 2025/2026 Genap, dan semester 2026/2027 
+Ganjil. 
+c. 
+Lulus 
+TAPS 
+(sesuai 
+pilihan 
+mahasiswa: 
+UKT/Skripsi/Proyek/Artikel Ilmiah) dengan nilai minimal B bagi 
+mahasiswa yang lulus program studi mulai semester 2026/2027 
+Genap. 
+d. IPK minimal 2,00 bagi mahasiswa yang lulus program studi pada 
+semester 2025/2026 Ganjil, 2025/2026 Genap, dan semester 
+2026/2027 Ganjil kecuali Program Studi S1 Sistem Informasi dan 
+Kewirausahaan IPK minimal 2,75 serta Program Studi S1 PGPAUD 
+IPK minimal 2,25. 
+e. 
+IPK minimal 2,50 bagi mahasiswa yang lulus program studi mulai 
+semester 
+2026/2027 
+Genap 
+kecuali 
+Program 
+Studi 
+S1  
+Kewirausahaan IPK minimal 2,75. 
+f. 
+Nilai minimal B untuk mata kuliah Pemantapan Kemampuan 
+Mengajar (PKM) atau mata kuliah Pengenalan Lapangan 
+Persekolahan (PLP) dan mata kuliah Pembelajaran Mikro pada 
+FKIP. 
+g. Nilai minimal C untuk mata kuliah: 
+1)  Praktikum pada Program Studi S1 Pendidikan Biologi, 
+Pendidikan Fisika, dan Pendidikan Kimia pada FKIP. 
+2)   Praktik Aplikasi Komputer Akuntansi  Perpajakan, Lab Pajak 
+Penghasilan, Lab PPN & PPnBM dan PDRD Program Studi S1 
+Perpajakan, Praktik Kerja Perpustakaan Program Studi S1 Ilmu 
+Perpustakaan, Praktik Peradilan Perdata dan Pidana Program 
+
+*** PDF PAGE 243 ***
+212 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+Studi S1 Ilmu Hukum, Praktik Kerja Komunikasi Program 
+Studi S1 Ilmu Komunikasi, serta Praktik Penerjemahan 
+Program Studi S1 Sastra Inggris pada FHISIP. 
+3)    Mata Kuliah Praktik dan Berpraktikum pada Program Studi S1 
+Pariwisata dan S1 Kewirausahaan. 
+4)   Mata 
+kuliah 
+praktik/praktikum 
+dan/atau 
+berpraktik/ 
+berpraktikum pada Program Studi S1 Agribisnis, S1 Biologi, S1 
+Matematika, S1 Perencanaan Wilayah dan Kota,  S1 Sains Data, 
+S1 Sistem Informasi, S1 Statistika, dan S1 Teknologi Pangan 
+pada FST. 
+ 
+h. Mahasiswa tidak sedang melakukan registrasi mata kuliah pada saat 
+penetapan kelulusan dan tidak ada masalah administrasi akademik 
+(misalnya pembayaran paket tertinggal, atau kelengkapan berkas 
+registrasi). 
+ 
+2. Program Diploma  
+a. 
+Lulus semua mata kuliah yang dipersyaratkan. 
+b.  IPK minimal 2,50. 
+c. 
+Mahasiswa tidak sedang melakukan registrasi mata kuliah pada saat 
+penetapan kelulusan dan tidak ada masalah administrasi akademik 
+(pembayaran paket tertinggal, kelengkapan berkas registrasi). 
+d. Untuk Program Studi D-III Perpajakan nilai mata kuliah Praktik 
+Kerja Perpajakan minimal B, sedangkan nilai mata kuliah Lab Pajak 
+Penghasilan Orang Pribadi, Lab Pajak Penghasilan Badan, Lab PPN 
+& PPnBM, Lab Pajak Daerah dan Retribusi Daerah, serta Aplikasi 
+Komputer Akuntansi Perpajakan minimal C.  
+e.  Untuk Program Studi D-IV Kearsipan: 
+1) 
+Nilai minimal C untuk mata kuliah Praktik Kerja Kearsipan. 
+2)    Lulus mata kuliah TAP Diploma. 
+ 
+B.  PENETAPAN KELULUSAN 
+ 
+Mahasiswa akan ditetapkan kelulusannya apabila sudah memenuhi 
+persyaratan kelulusan program. Mahasiswa yang telah ditetapkan 
+kelulusannya oleh Dekan atau Direktur, selanjutnya akan dikukuhkan dengan 
+SK Rektor. Kemudian dilakukan proses untuk mendapatkan Nomor Ijazah 
+Nasional (NINa) yang diajukan melalui sistem Penomoran Ijazah dan 
+
+*** PDF PAGE 244 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+213 
+ 
+ 
+Sertifikat Profesi Nasional (PISN). Berdasarkan Peraturan Menteri 
+Pendidikan, Kebudayaan, Riset dan Teknologi Nomor 6 Tahun 2022, Ijazah 
+dan Sertifikat Profesi yang diterbitkan oleh perguruan tinggi wajib 
+mencantumkan nomor ijazah dan sertifikat profesi nasional. 
+ Syarat untuk mendapatkan NINa adalah sebagai berikut: 
+1. Pemberian 
+status 
+lulus 
+mahasiswa 
+pada 
+laman 
+PDDikti 
+(https://pddikti.kemdiktisaintek.go.id/);  
+2. Status akreditasi program studi masih berlaku; 
+3. Masa studi, jumlah sks, dan IPK wajib sesuai Standar Nasional 
+Pendidikan Tinggi (SNDikti); 
+4. NIK harus ada (untuk WNA diisi dengan nomor paspor). 
+Ijazah dapat diverifikasi melalui Sistem Verifikasi Ijazah dan Sertifikat 
+Profesi Nasional (https://pisn.kemdiktisaintek.go.id/). Jadwal pengumuman 
+kelulusan dapat dilihat pada kalender akademik UT. Mahasiswa dapat 
+melakukan pengecekan kelulusan melalui laman https://aksi.ut.ac.id/. 
+ 
+C.  PENUNDAAN KELULUSAN  
+ 
+Mahasiswa yang sudah memenuhi persyaratan kelulusan tetapi ingin 
+menunda kelulusan atau memperbaiki nilai untuk meningkatkan IPK dapat 
+melakukan penundaan penetapan kelulusan dengan cara melakukan 
+registrasi mata kuliah.  
+ 
+D. DOKUMEN KELULUSAN  
+ 
+Dokumen Kelulusan terdiri atas Ijazah, Transkrip Akademik, dan  Surat 
+Keterangan Pendamping Ijazah (SKPI). Lulusan berhak memperoleh 
+dokumen kelulusan paling cepat pada saat pelaksanaan wisuda UT Pusat. 
+Ijazah adalah dokumen yang diberikan kepada lulusan pendidikan akademik 
+dan pendidikan vokasi sebagai pengakuan terhadap prestasi belajar dan/atau 
+penyelesaian program studi terakreditasi yang diselenggarakan oleh 
+perguruan tinggi. Transkrip Akademik adalah kumpulan nilai mata kuliah 
+kumulatif yang telah ditempuh. SKPI adalah dokumen yang memuat 
+informasi tentang pencapaian akademik atau kualifikasi lulusan dalam suatu 
+program pendidikan tinggi, serta prestasi dan aktivitas mahasiswa selama 
+masa studi. Dokumen Kelulusan Universitas Terbuka dimulai Tahun 
+Akademik 2022/2023 Ganjil telah menggunakan tanda tangan digital 
+bekerjasama dengan Balai Besar Sertifikasi Elektronik (BSrE) BSSN.  
+ 
+

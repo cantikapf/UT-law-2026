@@ -1,0 +1,560 @@
+[
+  {
+    "kode": "ADBI4336-3",
+    "judul": "HUKUM KETENAGAKERJAAN EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 126000,
+    "harga_mhs_str": "Rp. 126,000.00",
+    "harga_umum_str": "Rp. 155,900.00",
+    "stok": 200
+  },
+  {
+    "kode": "ADPU4332-3",
+    "judul": "HUKUM ADMINISTRASI NEGARA EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 150700,
+    "harga_mhs_str": "Rp. 150,700.00",
+    "harga_umum_str": "Rp. 194,300.00",
+    "stok": 17
+  },
+  {
+    "kode": "EKMA4316-2",
+    "judul": "HUKUM BISNIS EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 57300,
+    "harga_mhs_str": "Rp. 57,300.00",
+    "harga_umum_str": "Rp. 89,200.00",
+    "stok": 0
+  },
+  {
+    "kode": "EKMA4316-3",
+    "judul": "HUKUM BISNIS EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 132900,
+    "harga_mhs_str": "Rp. 132,900.00",
+    "harga_umum_str": "Rp. 166,700.00",
+    "stok": 1183
+  },
+  {
+    "kode": "FSIH4001",
+    "judul": "Panduan Berpraktik Hukum Islam dan Acara Peradilan Agama",
+    "edisi": 1,
+    "harga_mhs": 29800,
+    "harga_mhs_str": "Rp. 29,800.00",
+    "harga_umum_str": "Rp. 6,300.00",
+    "stok": 0
+  },
+  {
+    "kode": "FSIH4002",
+    "judul": "Panduan Berpraktik Hukum Agraria",
+    "edisi": 1,
+    "harga_mhs": 30800,
+    "harga_mhs_str": "Rp. 30,800.00",
+    "harga_umum_str": "Rp. 7,800.00",
+    "stok": 0
+  },
+  {
+    "kode": "FSIH4003",
+    "judul": "Panduan Berpraktik Hukum Perjanjian",
+    "edisi": 1,
+    "harga_mhs": 30800,
+    "harga_mhs_str": "Rp. 30,800.00",
+    "harga_umum_str": "Rp. 7,800.00",
+    "stok": 0
+  },
+  {
+    "kode": "FSIH4004",
+    "judul": "Panduan Berpraktik Pengujian Peraturan Perundang-Undangan",
+    "edisi": 1,
+    "harga_mhs": 30800,
+    "harga_mhs_str": "Rp. 30,800.00",
+    "harga_umum_str": "Rp. 7,800.00",
+    "stok": 0
+  },
+  {
+    "kode": "FSIH4005",
+    "judul": "Panduan Berpraktik Arbitrase, Mediasi, dan Negosiasi",
+    "edisi": 1,
+    "harga_mhs": 31300,
+    "harga_mhs_str": "Rp. 31,300.00",
+    "harga_umum_str": "Rp. 8,600.00",
+    "stok": 0
+  },
+  {
+    "kode": "FSIH4101",
+    "judul": "PENGANTAR ILMU HUKUM",
+    "edisi": 1,
+    "harga_mhs": 178300,
+    "harga_mhs_str": "Rp. 178,300.00",
+    "harga_umum_str": "Rp. 237,300.00",
+    "stok": 148
+  },
+  {
+    "kode": "FSIH4105",
+    "judul": "HUKUM PIDANA",
+    "edisi": 1,
+    "harga_mhs": 206900,
+    "harga_mhs_str": "Rp. 206,900.00",
+    "harga_umum_str": "Rp. 281,800.00",
+    "stok": 0
+  },
+  {
+    "kode": "FSIH4205",
+    "judul": "HUKUM AGRARIA",
+    "edisi": 1,
+    "harga_mhs": 131900,
+    "harga_mhs_str": "Rp. 131,900.00",
+    "harga_umum_str": "Rp. 165,100.00",
+    "stok": 20
+  },
+  {
+    "kode": "FSIH4206",
+    "judul": "HUKUM ADAT",
+    "edisi": 1,
+    "harga_mhs": 86500,
+    "harga_mhs_str": "Rp. 86,500.00",
+    "harga_umum_str": "Rp. 94,500.00",
+    "stok": 18
+  },
+  {
+    "kode": "FSIH4209",
+    "judul": "PANDUAN PRAKTIK PERADILAN PERDATA",
+    "edisi": 1,
+    "harga_mhs": 44600,
+    "harga_mhs_str": "Rp. 44,600.00",
+    "harga_umum_str": "Rp. 29,300.00",
+    "stok": 207
+  },
+  {
+    "kode": "FSIH4210",
+    "judul": "PANDUAN PRAKTIK PERADILAN PIDANA",
+    "edisi": 1,
+    "harga_mhs": 72700,
+    "harga_mhs_str": "Rp. 72,700.00",
+    "harga_umum_str": "Rp. 73,100.00",
+    "stok": 160
+  },
+  {
+    "kode": "FSIH4211",
+    "judul": "HUKUM DAN MASYARAKAT",
+    "edisi": 1,
+    "harga_mhs": 150200,
+    "harga_mhs_str": "Rp. 150,200.00",
+    "harga_umum_str": "Rp. 193,500.00",
+    "stok": 59
+  },
+  {
+    "kode": "FSIH4303",
+    "judul": "HUKUM PIDANA EKONOMI",
+    "edisi": 1,
+    "harga_mhs": 130900,
+    "harga_mhs_str": "Rp. 130,900.00",
+    "harga_umum_str": "Rp. 163,600.00",
+    "stok": 129
+  },
+  {
+    "kode": "FSIH4306",
+    "judul": "HUKUM PAJAK DAN ACARA PERPAJAKAN",
+    "edisi": 1,
+    "harga_mhs": 107300,
+    "harga_mhs_str": "Rp. 107,300.00",
+    "harga_umum_str": "Rp. 126,800.00",
+    "stok": 128
+  },
+  {
+    "kode": "FSIH4307",
+    "judul": "HUKUM PIDANA INTERNASIONAL",
+    "edisi": 1,
+    "harga_mhs": 152600,
+    "harga_mhs_str": "Rp. 152,600.00",
+    "harga_umum_str": "Rp. 197,400.00",
+    "stok": 39
+  },
+  {
+    "kode": "FSIK4002",
+    "judul": "Panduan Berpraktik Bahasa Inggris Komunikasi",
+    "edisi": 1,
+    "harga_mhs": 31800,
+    "harga_mhs_str": "Rp. 31,800.00",
+    "harga_umum_str": "Rp. 9,400.00",
+    "stok": 0
+  },
+  {
+    "kode": "HKUM4101-2",
+    "judul": "BAHASA DAN TERMINOLOGI HUKUM EDISI.2",
+    "edisi": 2,
+    "harga_mhs": 107308,
+    "harga_mhs_str": "Rp. 107,308.00",
+    "harga_umum_str": "Rp. 126,808.00",
+    "stok": 0
+  },
+  {
+    "kode": "HKUM4103-2",
+    "judul": "FILSAFAT HUKUM DAN ETIKA PROFESI EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 126000,
+    "harga_mhs_str": "Rp. 126,000.00",
+    "harga_umum_str": "Rp. 155,900.00",
+    "stok": 1103
+  },
+  {
+    "kode": "HKUM4201-3",
+    "judul": "HUKUM TATA NEGARA EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 150200,
+    "harga_mhs_str": "Rp. 150,200.00",
+    "harga_umum_str": "Rp. 193,500.00",
+    "stok": 88
+  },
+  {
+    "kode": "HKUM4202-2",
+    "judul": "HUKUM PERDATA EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 95400,
+    "harga_mhs_str": "Rp. 95,400.00",
+    "harga_umum_str": "Rp. 108,300.00",
+    "stok": 97
+  },
+  {
+    "kode": "HKUM4203-2",
+    "judul": "HUKUM PIDANA EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 140800,
+    "harga_mhs_str": "Rp. 140,800.00",
+    "harga_umum_str": "Rp. 178,900.00",
+    "stok": 0
+  },
+  {
+    "kode": "HKUM4204-2",
+    "judul": "HUKUM ADAT ED 2",
+    "edisi": 2,
+    "harga_mhs": 48600,
+    "harga_mhs_str": "Rp. 48,600.00",
+    "harga_umum_str": "Rp. 75,700.00",
+    "stok": 0
+  },
+  {
+    "kode": "HKUM4206-2",
+    "judul": "HUKUM INTERNASIONAL EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 182200,
+    "harga_mhs_str": "Rp. 182,200.00",
+    "harga_umum_str": "Rp. 243,400.00",
+    "stok": 105
+  },
+  {
+    "kode": "HKUM4207-2",
+    "judul": "HUKUM DAGANG DAN KEPAILITAN EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 131900,
+    "harga_mhs_str": "Rp. 131,900.00",
+    "harga_umum_str": "Rp. 165,100.00",
+    "stok": 97
+  },
+  {
+    "kode": "HKUM4208-2",
+    "judul": "HUKUM DAN HAK ASASI MANUSIA EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 129500,
+    "harga_mhs_str": "Rp. 129,500.00",
+    "harga_umum_str": "Rp. 161,300.00",
+    "stok": 0
+  },
+  {
+    "kode": "HKUM4209-2",
+    "judul": "ILMU NEGARA EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 88000,
+    "harga_mhs_str": "Rp. 88,000.00",
+    "harga_umum_str": "Rp. 96,800.00",
+    "stok": 19
+  },
+  {
+    "kode": "HKUM4210-2",
+    "judul": "HUKUM LINGKUNGAN EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 94900,
+    "harga_mhs_str": "Rp. 94,900.00",
+    "harga_umum_str": "Rp. 107,600.00",
+    "stok": 20
+  },
+  {
+    "kode": "HKUM4301-3",
+    "judul": "HUKUM TELEMATIKA EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 134900,
+    "harga_mhs_str": "Rp. 134,900.00",
+    "harga_umum_str": "Rp. 169,700.00",
+    "stok": 177
+  },
+  {
+    "kode": "HKUM4302-2",
+    "judul": "HUKUM KEKAYAAN INTELEKTUAL EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 210400,
+    "harga_mhs_str": "Rp. 210,400.00",
+    "harga_umum_str": "Rp. 287,100.00",
+    "stok": 152
+  },
+  {
+    "kode": "HKUM4303-2",
+    "judul": "HUKUM PERUSAHAAN EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 118100,
+    "harga_mhs_str": "Rp. 118,100.00",
+    "harga_umum_str": "Rp. 143,700.00",
+    "stok": 10
+  },
+  {
+    "kode": "HKUM4304-3",
+    "judul": "HUKUM PERDATA INTERNATIONAL EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 131400,
+    "harga_mhs_str": "Rp. 131,400.00",
+    "harga_umum_str": "Rp. 164,400.00",
+    "stok": 87
+  },
+  {
+    "kode": "HKUM4306-2",
+    "judul": "METODE PENELITIAN HUKUM EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 133900,
+    "harga_mhs_str": "Rp. 133,900.00",
+    "harga_umum_str": "Rp. 168,200.00",
+    "stok": 13
+  },
+  {
+    "kode": "HKUM4307-2",
+    "judul": "HUKUM PERSAINGAN USAHA EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 143300,
+    "harga_mhs_str": "Rp. 143,300.00",
+    "harga_umum_str": "Rp. 182,800.00",
+    "stok": 172
+  },
+  {
+    "kode": "HKUM4308-2",
+    "judul": "HUKUM PERBANKAN & TINDAK PIDANA PENCUCIAN UANG EDISI 02",
+    "edisi": 2,
+    "harga_mhs": 126000,
+    "harga_mhs_str": "Rp. 126,000.00",
+    "harga_umum_str": "Rp. 155,900.00",
+    "stok": 0
+  },
+  {
+    "kode": "HKUM4309-2",
+    "judul": "TINDAK PIDANA KHUSUS EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 159100,
+    "harga_mhs_str": "Rp. 159,100.00",
+    "harga_umum_str": "Rp. 207,300.00",
+    "stok": 145
+  },
+  {
+    "kode": "HKUM4310-2",
+    "judul": "TINDAK PIDANA KORUPSI EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 120600,
+    "harga_mhs_str": "Rp. 120,600.00",
+    "harga_umum_str": "Rp. 147,500.00",
+    "stok": 102
+  },
+  {
+    "kode": "HKUM4311-2",
+    "judul": "HUKUM TINDAK PIDANA EKONOMI EDISI 02",
+    "edisi": 2,
+    "harga_mhs": 118600,
+    "harga_mhs_str": "Rp. 118,600.00",
+    "harga_umum_str": "Rp. 144,400.00",
+    "stok": 0
+  },
+  {
+    "kode": "HKUM4312-2",
+    "judul": "HUKUM PERLINDUNGAN KONSUMEN EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 127500,
+    "harga_mhs_str": "Rp. 127,500.00",
+    "harga_umum_str": "Rp. 158,200.00",
+    "stok": 541
+  },
+  {
+    "kode": "HKUM4401-2",
+    "judul": "INTERPRETASI DAN PENALARAN HUKUM EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 84600,
+    "harga_mhs_str": "Rp. 84,600.00",
+    "harga_umum_str": "Rp. 91,500.00",
+    "stok": 63
+  },
+  {
+    "kode": "HKUM4402-2",
+    "judul": "HUKUM PERJANJIAN EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 149200,
+    "harga_mhs_str": "Rp. 149,200.00",
+    "harga_umum_str": "Rp. 192,000.00",
+    "stok": 130
+  },
+  {
+    "kode": "HKUM4403-3",
+    "judul": "ILMU PERUNDANG-UNDANGAN EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 110220,
+    "harga_mhs_str": "Rp. 110,220.00",
+    "harga_umum_str": "Rp. 131,400.00",
+    "stok": 32
+  },
+  {
+    "kode": "HKUM4404-2",
+    "judul": "TEORI PERUNDANG-UNDANGAN EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 99900,
+    "harga_mhs_str": "Rp. 99,900.00",
+    "harga_umum_str": "Rp. 115,200.00",
+    "stok": 84
+  },
+  {
+    "kode": "HKUM4405-2",
+    "judul": "HUKUM ACARA PERDATA EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 165500,
+    "harga_mhs_str": "Rp. 165,500.00",
+    "harga_umum_str": "Rp. 217,300.00",
+    "stok": 65
+  },
+  {
+    "kode": "HKUM4406-2",
+    "judul": "HUKUM ACARA PIDANA EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 135900,
+    "harga_mhs_str": "Rp. 135,900.00",
+    "harga_umum_str": "Rp. 171,300.00",
+    "stok": 80
+  },
+  {
+    "kode": "HKUM4408-2",
+    "judul": "HUKUM ISLAM DAN ACARA PERADILAN AGAMA EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 152600,
+    "harga_mhs_str": "Rp. 152,600.00",
+    "harga_umum_str": "Rp. 197,400.00",
+    "stok": 34
+  },
+  {
+    "kode": "HKUM4409-2",
+    "judul": "ARBITRASE, MEDIASI DAN NEGOSIASI EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 90500,
+    "harga_mhs_str": "Rp. 90,500.00",
+    "harga_umum_str": "Rp. 100,700.00",
+    "stok": 56
+  },
+  {
+    "kode": "HKUM4410-2",
+    "judul": "PRAKTIK PENGALAMAN BERACARA EDISI 02",
+    "edisi": 2,
+    "harga_mhs": 129500,
+    "harga_mhs_str": "Rp. 129,500.00",
+    "harga_umum_str": "Rp. 161,300.00",
+    "stok": 0
+  },
+  {
+    "kode": "ISIP4131-3",
+    "judul": "SISTEM HUKUM INDONESIA EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 201500,
+    "harga_mhs_str": "Rp. 201,500.00",
+    "harga_umum_str": "Rp. 273,300.00",
+    "stok": 79
+  },
+  {
+    "kode": "MKKI4450",
+    "judul": "Panduan Tugas Akhir Program Sarjana (TAPS)",
+    "edisi": 1,
+    "harga_mhs": 77700,
+    "harga_mhs_str": "Rp. 77,700.00",
+    "harga_umum_str": "Rp. 80,700.00",
+    "stok": 1443
+  },
+  {
+    "kode": "MKWI4201-2",
+    "judul": "BAHASA INGGRIS EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 130900,
+    "harga_mhs_str": "Rp. 130,900.00",
+    "harga_umum_str": "Rp. 163,600.00",
+    "stok": 231
+  },
+  {
+    "kode": "MKWI4202-2",
+    "judul": "BELAJAR DI ERA DIGITAL EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 157600,
+    "harga_mhs_str": "Rp. 157,600.00",
+    "harga_umum_str": "Rp. 205,000.00",
+    "stok": 500
+  },
+  {
+    "kode": "MKWI4203-2",
+    "judul": "KEWIRAUSAHAAN DI ERA DIGITAL EDISI 2",
+    "edisi": 2,
+    "harga_mhs": 119600,
+    "harga_mhs_str": "Rp. 119,600.00",
+    "harga_umum_str": "Rp. 145,900.00",
+    "stok": 123
+  },
+  {
+    "kode": "MKWN4101",
+    "judul": "PENDIDIKAN AGAMA ISLAM",
+    "edisi": 1,
+    "harga_mhs": 139300,
+    "harga_mhs_str": "Rp. 139,300.00",
+    "harga_umum_str": "Rp. 176,600.00",
+    "stok": 0
+  },
+  {
+    "kode": "MKWN4108",
+    "judul": "BAHASA INDONESIA",
+    "edisi": 1,
+    "harga_mhs": 108700,
+    "harga_mhs_str": "Rp. 108,700.00",
+    "harga_umum_str": "Rp. 129,100.00",
+    "stok": 689
+  },
+  {
+    "kode": "MKWN4109",
+    "judul": "PENDIDIKAN KEWARGANEGARAAN",
+    "edisi": 1,
+    "harga_mhs": 99400,
+    "harga_mhs_str": "Rp. 99,400.00",
+    "harga_umum_str": "Rp. 114,500.00",
+    "stok": 170
+  },
+  {
+    "kode": "MKWN4110",
+    "judul": "PANCASILA",
+    "edisi": 1,
+    "harga_mhs": 96400,
+    "harga_mhs_str": "Rp. 96,400.00",
+    "harga_umum_str": "Rp. 109,900.00",
+    "stok": 145
+  },
+  {
+    "kode": "SKOM4209-3",
+    "judul": "BAHASA INGGRIS II  EDISI 3",
+    "edisi": 3,
+    "harga_mhs": 107800,
+    "harga_mhs_str": "Rp. 107,800.00",
+    "harga_umum_str": "Rp. 127,500.00",
+    "stok": 60
+  },
+  {
+    "kode": "SPKN4301",
+    "judul": "Kriminologi dan Kenakalan Remaja di Era Globalisasi",
+    "edisi": 1,
+    "harga_mhs": 114700,
+    "harga_mhs_str": "Rp. 114,700.00",
+    "harga_umum_str": "Rp. 138,300.00",
+    "stok": 965
+  }
+]

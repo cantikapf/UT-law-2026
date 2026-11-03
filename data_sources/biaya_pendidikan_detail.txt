@@ -1,0 +1,2398 @@
+*** PDF PAGE 54 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+23 
+ 
+III. BIAYA PENDIDIKAN  
+ 
+Menurut Permendikbudristek No. 2 Tahun 2024 tentang Standar Satuan 
+Biaya Operasional Pendidikan Tinggi pada Perguruan Tinggi Negeri di 
+Lingkungan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 
+Biaya pendidikan adalah biaya yang dikenakan kepada setiap mahasiswa 
+untuk digunakan dalam proses pembelajaran atau disebut Uang Kuliah 
+Tunggal (UKT). Berdasarkan SK Rektor No. 4478 Tahun 2024 tentang Tarif 
+UKT Program Diploma dan Sarjana, UKT terdiri atas UKT pokok dan UKT 
+variabel. 
+Besaran uang kuliah di Universitas Terbuka (UT) ditentukan 
+berdasarkan skema layanan yang dipilih mahasiswa, yaitu Sistem Paket 
+Semester (SIPAS) dan Non-SIPAS berbasis Sistem Kredit Semester (SKS). 
+Perbedaan skema ini mencerminkan fleksibilitas layanan UT sebagai 
+perguruan tinggi terbuka dan jarak jauh dalam mengakomodasi kebutuhan 
+mahasiswa yang beragam. Pembayaran biaya pendidikan dilakukan melalui 
+beberapa saluran pembayaran disajikan pada tabel berikut. 
+ 
+Tabel 3.1 
+Saluran Pembayaran Biaya Pendidikan 
+ 
+No. 
+Saluran 
+Pembayaran 
+Mitra Pembayaran 
+Fitur Pembayaran 
+1. 
+Bank 
+Bank Tabungan 
+Negara (BTN) 
+a. Virtual Account 
+(VA) 
+b. Bale by BTN 
+c. Teller 
+d. Anjungan Tunai 
+Mandiri (ATM) 
+e. Electronic Data 
+Capture (EDC) 
+Bank Mandiri 
+a. Livin by Mandiri 
+b. Teller 
+c. ATM 
+d. Kartu Debit via 
+EDC 
+Bank Rakyat 
+Indonesia (BRI) 
+a. VA 
+b. BRI mobile 
+(BRImo) 
+c. Teller 
+
+*** PDF PAGE 55 ***
+24 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+No. 
+Saluran 
+Pembayaran 
+Mitra Pembayaran 
+Fitur Pembayaran 
+d. ATM 
+e. BRILink 
+f. 
+Kartu Debit via 
+EDC 
+Bank Negara 
+Indonesia (BNI) 
+a. VA 
+b. Wondr by BNI 
+c. Internet Banking 
+d. Teller 
+e. ATM 
+f. Kartu Debit via 
+EDC 
+Bank Syariah 
+Indonesia (BSI) 
+a. VA 
+b. BYOND by BSI 
+c. Internet Banking 
+d. Teller 
+e. ATM 
+2. 
+QRIS via MyUT 
+BTN 
+QRIS BTN 
+BNI 
+QRIS BNI 
+BRI 
+QRIS BRI 
+Bank Nobu 
+QRIS Nobu (2C2P) 
+3. 
+Pos Indonesia 
+Pos Indonesia 
+a. Teller di kantor pos 
+b. PosPay 
+4. 
+Tunai via Gerai 
+Grup Alfa 
+a. Kasir Alfamart 
+b. Kasir Alfamidi 
+c. Kasir Lawson 
+d. Kasir DAN + DAN 
+Indomaret 
+Kasir Indomaret 
+5. 
+e-Wallet  
+OVO 
+Via MyUT pilih 
+pembayaran Digital 
+Dana 
+Kredivo 
+6. 
+e-Commerce 
+Tokopedia 
+Biaya Pendidikan 
+Shopee 
+7. 
+Global (Mahasiswa 
+UT di Luar Negeri) 
+BNI 
+VA BNI 
+Mandiri 
+Livin Mandiri 
+BRI 
+BRIVA 
+Kartu Kredit 
+berlogo 
+a. Visa 
+b. Mastercard 
+c. JCB 
+ 
+ 
+
+*** PDF PAGE 56 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+25 
+ 
+A. UANG KULIAH 
+ 
+Skema uang kuliah di UT disajikan pada tabel berikut. 
+ 
+Tabel 3.2 
+Skema Uang Kuliah di UT 
+ 
+1. Uang Kuliah Tunggal (UKT) Pokok 
+ 
+No. 
+Jenis UKT 
+Jenis 
+Layanan 
+Deskripsi 
+1. 
+UKT 1 
+ 
+Beasiswa 
+LPKBJJ, administrasi akademik, bahan ajar 
+digital, praktik/praktikum online, Tutorial 
+Online (Tuton), Ujian Akhir Semester (UAS), 
+dan Pengambilan Ijazah. 
+2. 
+UKT 2 
+Beasiswa 
+LPKBJJ, administrasi akademik, bahan ajar 
+digital, praktik/praktikum online, Tutorial 
+Online (Tuton), Ujian Akhir Semester (UAS), 
+dan Pengambilan Ijazah. 
+3. 
+UKT 3 
+SIPAS Non- 
+TTM 
+LPKBJJ, administrasi akademik, bahan ajar 
+cetak dan digital, praktik/praktikum seluruh 
+mata kuliah paket, Tutorial Online (Tuton), 
+Ujian Akhir Semester (UAS), Tugas Akhir 
+Program Sarjana (TAPS), dan Pengambilan 
+Ijazah. 
+4. 
+UKT 4 
+SIPAS Semi 
+LPKBJJ, administrasi akademik, bahan ajar 
+cetak (termasuk biaya pengiriman bahan ajar) 
+dan digital, TTM wajib maksimal 3 mata 
+kuliah, 
+praktik/praktikum, 
+Tuton, 
+UAS, 
+TAPS, dan Pengambilan Ijazah. 
+5. 
+UKT 5 
+SIPAS Penuh 
+LPKBJJ, administrasi akademik, bahan ajar 
+cetak (termasuk biaya pengiriman bahan ajar) 
+dan digital, TTM wajib seluruh mata kuliah, 
+praktik/praktikum, Tuton, UAS, TAPS, dan 
+Pengambilan Ijazah. 
+6. 
+UKT 6 
+SIPAS Plus 
+LPKBJJ, administrasi akademik, bahan ajar 
+cetak (termasuk biaya pengiriman bahan ajar) 
+dan digital, TTM wajib seluruh mata kuliah, 
+praktik/praktikum, 
+Tuton, 
+UAS, 
+TAPS, 
+Pengambilan 
+Ijazah, 
+dan 
+pelatihan 
+pengembangan diri. 
+ 
+
+*** PDF PAGE 57 ***
+26 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+2. Uang Kuliah Tunggal (UKT) Variabel 
+ 
+No. 
+Keterangan 
+Jenis Layanan 
+Deskripsi 
+1. 
+Biaya Mata 
+Kuliah (Per SKS) 
+Non-Sipas 
+LPKBJJ, administrasi akademik, bahan 
+ajar digital, praktik/praktikum online, 
+Tutorial Online (Tuton), Ujian Akhir 
+Semester (UAS), dan Pengambilan 
+Ijazah. 
+2. 
+Biaya Mata 
+Kuliah Ulang  
+(Per SKS) 
+- 
+Biaya untuk mengulang mata kuliah 
+yang sebelumnya belum lulus atau ingin 
+diperbaiki 
+nilainya. 
+Perhitungannya 
+berdasarkan jumlah SKS mata kuliah 
+yang diambil oleh mahasiswa. 
+3. 
+Biaya Bahan Ajar 
+- 
+Biaya untuk memperoleh modul atau 
+bahan ajar yang digunakan dalam 
+pembelajaran jarak jauh di UT. 
+Bahan ajar ini biasanya berupa: 
+a. 
+Modul cetak 
+b. 
+Bahan ajar digital 
+c. 
+Materi pembelajaran lainnya 
+4. 
+TTM Atpem  
+(Per MK)  
+- 
+a. 
+TTM Atpem adalah Tutorial Tatap 
+Muka atas Permintaan untuk mata 
+kuliah tertentu. 
+b. 
+Biaya 
+ini 
+dikenakan 
+jika 
+mahasiswa 
+ingin 
+mengikuti 
+layanan 
+tutorial 
+tatap 
+muka. 
+Perhitungannya per mata kuliah 
+(MK). 
+5. 
+Registrasi Ulang 
+PKM/PLP 
+- 
+Biaya registrasi ulang untuk kegiatan: 
+a. 
+PKM (Pemantapan Kemampuan 
+Mengajar). 
+b. 
+PLP 
+(Pengenalan 
+Lapangan 
+Persekolahan). 
+6. 
+Registrasi Ulang 
+Praktik/Praktikum 
+- 
+Biaya yang dibayarkan untuk mata 
+kuliah 
+praktik/praktikum 
+ketika 
+mahasiswa mengulang dan kegiatan 
+pelaksanaanya 
+dilakukan 
+dengan 
+bantuan instruktur. 
+7. 
+Registrasi Ulang 
+Praktikum 
+Mandiri 
+- 
+Biaya yang dibayarkan untuk mata 
+kuliah 
+praktik/praktikum 
+ketika 
+mahasiswa mengulang dan kegiatannya 
+dilakukan secara mandiri terbimbing. 
+
+*** PDF PAGE 58 ***
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+27 
+ 
+No. 
+Keterangan 
+Jenis Layanan 
+Deskripsi 
+8. 
+Registrasi Ulang 
+TAPS Non-
+FKIP/PKP FKIP 
+- 
+Biaya 
+yang 
+dibayarkan 
+ketika 
+mahasiswa melakukan registrasi ulang 
+TAPS. 
+9. 
+Registrasi Ulang 
+Praktik Studio 
+ 
+- 
+Biaya 
+yang 
+dibayarkan 
+ketika 
+mahasiswa meregistrasi ulang praktik 
+studio (hanya untuk program studi 
+Perencanaan Wilayah dan Kota). 
+10. 
+Pindah Modus 
+Ujian 
+(Per MK) 
+- 
+a. 
+Biaya yang dibayarkan ketika 
+mahasiswa pindah modus ujian. 
+b. 
+Ketentuan teknis mengenai pindah 
+modus ujian diatur dalam surat 
+edaran 
+Wakil 
+Rektor 
+yang 
+membidangi akademik. 
+ 
+ 
+
+*** PDF PAGE 59 ***
+ 
+ 
+ 
+ 
+ 
+28 
+Pedoman  Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+Rincian biaya pendidikan di UT dengan skema UKT Pokok disajikan pada tabel berikut. 
+ 
+Tabel 3.3 
+UKT Pokok Program Sarjana  
+ 
+1. Program Sarjana untuk Mahasiswa Dalam Negeri 
+ 
+No. 
+Program Studi 
+UKT 1 
+(Per Smt) 
+UKT 2 
+(Per Smt) 
+UKT 3 
+SIPAS Non-TTM 
+(Per Smt) 
+UKT 4 
+SIPAS Semi 
+(Per Smt) 
+UKT 5 
+SIPAS Penuh 
+(Per Smt) 
+UKT 6 
+SIPAS Plus 
+(Per Smt) 
+(Rp) 
+1. 
+PJJ Pariwisata 
+500.000 
+1.000.000 
+1.900.000 
+2.600.000 
+3.200.000 
+3.400.000 
+2. 
+Ilmu Hukum 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+3. 
+Pendidikan Agama Islam 
+500.000 
+1.000.000 
+1.500.000 
+- 
+- 
+- 
+4. 
+Perpajakan 
+500.000 
+1.000.000 
+1.800.000 
+- 
+- 
+- 
+5. 
+Sains Data 
+500.000 
+1.000.000 
+1.900.000 
+- 
+- 
+- 
+6. 
+Manajemen 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+7. 
+Ekonomi Pembangunan 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+8. 
+Ekonomi Syariah 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+9. 
+Akuntansi 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+10. 
+Akuntansi Keuangan Publik 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+
+*** PDF PAGE 60 ***
+ 
+ 
+ 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+29 
+No. 
+Program Studi 
+UKT 1 
+(Per Smt) 
+UKT 2 
+(Per Smt) 
+UKT 3 
+SIPAS Non-TTM 
+(Per Smt) 
+UKT 4 
+SIPAS Semi 
+(Per Smt) 
+UKT 5 
+SIPAS Penuh 
+(Per Smt) 
+UKT 6 
+SIPAS Plus 
+(Per Smt) 
+(Rp) 
+11. 
+Pendidikan Bahasa dan Sastra 
+Indonesia 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+12. 
+Pendidikan Bahasa Inggris 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+13. 
+Pendidikan Biologi 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+14. 
+Pendidikan  Fisika 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+15. 
+Pendidikan Kimia 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+16. 
+Pendidikan Matematika 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+17. 
+Pendidikan Ekonomi 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+18. 
+Pendidikan Pancasila dan 
+Kewarganegara an 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+19. 
+Teknologi Pendidikan 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+20. 
+Pendidikan Guru Sekolah 
+Dasar (In-service)  
+500.000 
+1.000.000 
+1.600.000 
+- 
+- 
+- 
+21. 
+Pendidikan Guru Sekolah 
+Dasar Skema Alih Kredit 
+Pengakuan Masa Mengajar 
+(AKPMM) 
+500.000 
+1.000.000 
+- 
+1.700.000 
+- 
+- 
+22. 
+Pendidikan Guru Sekolah 
+Dasar Masukan Sarjana 
+500.000 
+1.000.000 
+- 
+- 
+2.700.000 
+- 
+
+*** PDF PAGE 61 ***
+ 
+ 
+ 
+ 
+ 
+30 
+Pedoman  Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+No. 
+Program Studi 
+UKT 1 
+(Per Smt) 
+UKT 2 
+(Per Smt) 
+UKT 3 
+SIPAS Non-TTM 
+(Per Smt) 
+UKT 4 
+SIPAS Semi 
+(Per Smt) 
+UKT 5 
+SIPAS Penuh 
+(Per Smt) 
+UKT 6 
+SIPAS Plus 
+(Per Smt) 
+(Rp) 
+23. 
+Pendidikan Guru Sekolah 
+Dasar (Pre-service)  
+500.000 
+1.000.000 
+1.900.000 
+- 
+- 
+- 
+24. 
+Pendidikan Guru Sekolah 
+Dasar (Pre-service)  
+500.000 
+1.000.000 
+- 
+2.000.000 
+- 
+- 
+25. 
+Pendidikan Guru Pendidikan 
+Anak Usia Dini (In-service) 
+500.000 
+1.000.000 
+2.000.000 
+- 
+- 
+- 
+26. 
+Pendidikan Guru Pendidikan 
+Anak Usia Dini Skema Alih 
+Kredit Pengakuan Masa 
+Mengajar (AKPMM) 
+500.000 
+1.000.000 
+- 
+2.500.000 
+- 
+- 
+27. 
+Pendidikan Guru Pendidikan 
+Anak Usia Dini Masukan 
+Sarjana 
+500.000 
+1.000.000 
+- 
+- 
+3.300.000 
+- 
+28. 
+Pendidikan Guru Pendidikan 
+Anak Usia Dini (Pre-service) 
+500.000 
+1.000.000 
+2.400.000 
+- 
+- 
+- 
+29. 
+Pendidikan Guru Pendidikan 
+Anak Usia Dini (Pre-service) 
+500.000 
+1.000.000 
+- 
+2.900.000 
+- 
+- 
+30. 
+Pendidikan Guru Pendidikan 
+Anak Usia Dini (untuk 
+mahasiswa dengan paket 
+tertinggal MR I sebelum 
+2017.1) 
+500.000 
+1.000.000 
+- 
+1.600.000 
+1.900.000 
+- 
+
+*** PDF PAGE 62 ***
+ 
+ 
+ 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+31 
+No. 
+Program Studi 
+UKT 1 
+(Per Smt) 
+UKT 2 
+(Per Smt) 
+UKT 3 
+SIPAS Non-TTM 
+(Per Smt) 
+UKT 4 
+SIPAS Semi 
+(Per Smt) 
+UKT 5 
+SIPAS Penuh 
+(Per Smt) 
+UKT 6 
+SIPAS Plus 
+(Per Smt) 
+(Rp) 
+31. 
+Statistika 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+32. 
+Matematika 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+33. 
+Biologi 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+34. 
+Teknologi Pangan 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+35. 
+Agribisnis 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+36. 
+Perencanaan Wilayah dan Kota 
+500.000 
+1.000.000 
+1.750.000 
+- 
+- 
+2.400.000 
+37. 
+Sistem Informasi 
+500.000 
+1.000.000 
+1.800.000 
+- 
+- 
+- 
+38. 
+Ilmu Administrasi Negara 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+39. 
+Ilmu Administrasi Bisnis 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+40. 
+Ilmu Pemerintahan 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+41. 
+Ilmu Komunikasi 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+42. 
+Ilmu Perpustakaan 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+43. 
+Sosiologi 
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+44. 
+Sastra Inggris  
+500.000 
+1.000.000 
+1.300.000 
+1.750.000 
+2.200.000 
+2.400.000 
+45. 
+Kewirausahaan*) 
+500.000 
+1.000.000 
+2.600.000 
+2.975.000 
+3.200.000 
+3.300.000 
+*) Menunggu proses rekomendasi tarif UKT dari Kementerian Pendidikan Tinggi, Sains, dan Teknologi 
+ 
+
+*** PDF PAGE 63 ***
+ 
+ 
+ 
+ 
+ 
+32 
+Pedoman  Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+2. UKT Pokok Program Sarjana WNI di Luar Negeri*) 
+ 
+No. 
+Program Studi 
+UKT 3 
+SIPAS Non-TTM 
+(Per Smt) 
+(Rp) 
+1. 
+Pendidikan Guru Sekolah Dasar  
+(In-service) 
+1.600.000 
+2. 
+Pendidikan Guru Sekolah Dasar  
+(Pre-service) 
+1.900.000 
+3. 
+Pendidikan Guru Pendidikan Anak Usia Dini  
+(In-service) 
+2.000.000 
+4. 
+Pendidikan Guru Pendidikan Anak Usia Dini  
+(Pre-service) 
+2.400.000 
+*) Menunggu proses rekomendasi tarif UKT dari Kementerian Pendidikan Tinggi, Sains, dan Teknologi 
+ 
+
+*** PDF PAGE 64 ***
+ 
+ 
+ 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+33 
+Rincian biaya pendidikan di UT dengan skema UKT Variabel disajikan pada tabel berikut. 
+ 
+Tabel 3.4 
+UKT Variabel Program Sarjana  
+ 
+1. Program Sarjana untuk Mahasiswa Dalam Negeri 
+ 
+No. 
+Program Studi 
+Biaya 
+Mata 
+Kuliah 
+(Per sks) 
+Biaya 
+Mata 
+Kuliah 
+Ulang 
+(Per sks) 
+TTM 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+(Rp) 
+1. 
+PJJ Pariwisata 
+80.000 
+80.000 
+150.000 
+- 
+450.000 
+- 
+- 
+2. 
+Ilmu Hukum 
+40.000 
+40.000 
+150.000 
+- 
+450.000 
+- 
+- 
+3. 
+Pendidikan Agama Islam 
+70.000 
+70.000 
+150.000 
+700.000 
+- 
+- 
+- 
+4. 
+Perpajakan 
+75.000 
+75.000 
+150.000 
+- 
+450.000 
+- 
+- 
+5. 
+Sains Data 
+85.000 
+85.000 
+150.000 
+- 
+700.000 
+- 
+- 
+6. 
+Manajemen 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+7. 
+Ekonomi Pembangunan 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+8. 
+Ekonomi Syariah 
+51.000 
+51.000 
+150.000 
+- 
+- 
+- 
+- 
+9. 
+Akuntansi 
+38.000 
+38.000 
+150.000 
+- 
+190.000 
+- 
+- 
+10. 
+Akuntansi Keuangan Publik 
+51.000 
+51.000 
+150.000 
+- 
+350.000 
+- 
+- 
+
+*** PDF PAGE 65 ***
+ 
+ 
+ 
+ 
+ 
+34 
+Pedoman  Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+No. 
+Program Studi 
+Biaya 
+Mata 
+Kuliah 
+(Per sks) 
+Biaya 
+Mata 
+Kuliah 
+Ulang 
+(Per sks) 
+TTM 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+(Rp) 
+11. 
+Pendidikan Bahasa dan Sastra 
+Indonesia 
+41.000 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+12. 
+Pendidikan Bahasa Inggris 
+41.000 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+13. 
+Pendidikan Biologi 
+55.000 
+55.000 
+150.000 
+700.000 
+1.000.000 
+- 
+- 
+14. 
+Pendidikan  Fisika 
+55.000 
+55.000 
+150.000 
+700.000 
+1.000.000 
+- 
+- 
+15. 
+Pendidikan Kimia 
+55.000 
+55.000 
+150.000 
+700.000 
+1.000.000 
+- 
+- 
+16. 
+Pendidikan Matematika 
+41.000 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+17. 
+Pendidikan Ekonomi 
+41.000 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+18. 
+Pendidikan Pancasila dan 
+Kewarganegaraan 
+41.000 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+19. 
+Teknologi Pendidikan 
+75.000 
+75.000 
+150.000 
+- 
+350.000 
+- 
+- 
+20. 
+Pendidikan Guru Sekolah Dasar  
+(In-service) 
+SIPAS Non-TTM 
+- 
+75.000 
+150.000 
+700.000 
+- 
+- 
+- 
+21. 
+Pendidikan Guru Sekolah Dasar 
+Skema Alih Kredit Pengakuan Masa 
+Mengajar (AKPMM) 
+- 
+55.000 
+150.000 
+700.000 
+- 
+- 
+- 
+
+*** PDF PAGE 66 ***
+ 
+ 
+ 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+35 
+No. 
+Program Studi 
+Biaya 
+Mata 
+Kuliah 
+(Per sks) 
+Biaya 
+Mata 
+Kuliah 
+Ulang 
+(Per sks) 
+TTM 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+(Rp) 
+SIPAS Semi 
+22. 
+Pendidikan Guru Sekolah Dasar  
+(In-service) 
+SIPAS Penuh*) 
+- 
+90.000 
+150.000 
+700.000 
+- 
+- 
+- 
+23. 
+Pendidikan Guru Sekolah Dasar  
+(In-service) 
+SIPAS Plus*) 
+- 
+95.000 
+150.000 
+700.000 
+- 
+- 
+- 
+24. 
+Pendidikan Guru Sekolah Dasar 
+Masukan Sarjana 
+- 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+25. 
+Pendidikan Guru Sekolah Dasar  
+(Pre-service) 
+SIPAS Non-TTM 
+- 
+80.000 
+150.000 
+700.000 
+- 
+- 
+- 
+26. 
+Pendidikan Guru Sekolah Dasar  
+(Pre-service) 
+SIPAS Semi 
+- 
+85.000 
+150.000 
+700.000 
+- 
+- 
+- 
+27. 
+Pendidikan Guru Sekolah Dasar  
+(Pre-service) 
+SIPAS Penuh*) 
+- 
+95.000 
+150.000 
+700.000 
+- 
+- 
+- 
+
+*** PDF PAGE 67 ***
+ 
+ 
+ 
+ 
+ 
+36 
+Pedoman  Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+No. 
+Program Studi 
+Biaya 
+Mata 
+Kuliah 
+(Per sks) 
+Biaya 
+Mata 
+Kuliah 
+Ulang 
+(Per sks) 
+TTM 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+(Rp) 
+28. 
+Pendidikan Guru Sekolah Dasar  
+(Pre-service) 
+SIPAS Plus*) 
+- 
+100.000 
+150.000 
+700.000 
+- 
+- 
+- 
+29. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini  
+(In-service) 
+SIPAS Non-TTM 
+- 
+75.000 
+150.000 
+700.000 
+- 
+- 
+- 
+30. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini Skema Alih Kredit 
+Pengakuan Masa Mengajar 
+(AKPMM) 
+SIPAS Semi 
+- 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+31. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini  
+(In-service) 
+SIPAS Penuh*) 
+- 
+90.000 
+150.000 
+700.000 
+- 
+- 
+- 
+32. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini  
+(In-service) 
+SIPAS Plus*) 
+- 
+95.000 
+150.000 
+700.000 
+- 
+- 
+- 
+
+*** PDF PAGE 68 ***
+ 
+ 
+ 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+37 
+No. 
+Program Studi 
+Biaya 
+Mata 
+Kuliah 
+(Per sks) 
+Biaya 
+Mata 
+Kuliah 
+Ulang 
+(Per sks) 
+TTM 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+(Rp) 
+33. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini Masukan Sarjana 
+- 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+34. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini  
+(Pre-service) 
+SIPAS Non-TTM 
+- 
+80.000 
+150.000 
+700.000 
+- 
+- 
+- 
+35. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini  
+(Pre-service) 
+SIPAS Semi 
+- 
+85.000 
+150.000 
+700.000 
+- 
+- 
+- 
+36. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini  
+(Pre-service) 
+SIPAS Penuh*) 
+- 
+95.000 
+150.000 
+700.000 
+- 
+- 
+- 
+37. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini  
+(Pre-service) 
+SIPAS Plus*) 
+ 
+- 
+100.000 
+150.000 
+700.000 
+- 
+- 
+- 
+
+*** PDF PAGE 69 ***
+ 
+ 
+ 
+ 
+ 
+38 
+Pedoman  Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+No. 
+Program Studi 
+Biaya 
+Mata 
+Kuliah 
+(Per sks) 
+Biaya 
+Mata 
+Kuliah 
+Ulang 
+(Per sks) 
+TTM 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+(Rp) 
+38. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini (untuk mahasiswa dengan 
+paket tertinggal MR I sebelum 
+2017.1) 
+- 
+41.000 
+150.000 
+700.000 
+- 
+- 
+- 
+39. 
+Statistika 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+40. 
+Matematika 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+41. 
+Biologi 
+50.000 
+50.000 
+150.000 
+- 
+700.000 
+- 
+- 
+42. 
+Teknologi Pangan 
+50.000 
+50.000 
+150.000 
+- 
+700.000 
+- 
+- 
+43. 
+Agribisnis 
+50.000 
+50.000 
+150.000 
+- 
+700.000 
+50.000 
+- 
+44. 
+Perencanaan Wilayah dan Kota 
+54.000 
+54.000 
+150.000 
+- 
+- 
+- 
+1.500.000 
+45. 
+Sistem Informasi 
+78.000 
+78.000 
+150.000 
+- 
+- 
+- 
+- 
+46. 
+Ilmu Administrasi Negara 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+47. 
+Ilmu Administrasi Bisnis 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+48. 
+Ilmu Pemerintahan 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+49. 
+Ilmu Komunikasi 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+50. 
+Ilmu Perpustakaan 
+38.000 
+38.000 
+150.000 
+- 
+450.000 
+- 
+- 
+51. 
+Sosiologi 
+36.000 
+36.000 
+150.000 
+- 
+- 
+- 
+- 
+
+*** PDF PAGE 70 ***
+ 
+ 
+ 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+39 
+No. 
+Program Studi 
+Biaya 
+Mata 
+Kuliah 
+(Per sks) 
+Biaya 
+Mata 
+Kuliah 
+Ulang 
+(Per sks) 
+TTM 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+(Rp) 
+52. 
+Sastra Inggris  
+41.000 
+41.000 
+150.000 
+- 
+- 
+- 
+- 
+53. 
+Kewirausahaan*) 
+120.000 
+120.000 
+150.000 
+ 
+ 
+ 
+ 
+*) Menunggu proses rekomendasi tarif UKT dari Kementerian Pendidikan Tinggi, Sains, dan Teknologi 
+ 
+2. Program Sarjana untuk Mahasiswa WNI di Luar Negeri 
+ 
+No. 
+Program Studi 
+Biaya Mata Kuliah/Biaya Mata Kuliah Ulang 
+(Per sks) 
+Tuweb 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+Mahasiswa 
+di Arab 
+Saudi 
+Mahasiswa di 
+Singapura, 
+Malaysia, 
+Timor Leste 
+dan Brunei 
+Darussalam 
+Mahasiswa di 
+Negara Selain 
+Arab Saudi, 
+Singapura, 
+Malaysia, Timor 
+Leste dan Brunei 
+Darussalam 
+(Rp) 
+1. 
+PJJ Pariwisata 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+450.000 
+- 
+- 
+2. 
+Ilmu Hukum 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+450.000 
+- 
+- 
+3. 
+Pendidikan Agama Islam 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+- 
+- 
+- 
+4. 
+Perpajakan 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+450.000 
+- 
+- 
+
+*** PDF PAGE 71 ***
+ 
+ 
+ 
+ 
+ 
+40 
+Pedoman  Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+No. 
+Program Studi 
+Biaya Mata Kuliah/Biaya Mata Kuliah Ulang 
+(Per sks) 
+Tuweb 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+Mahasiswa 
+di Arab 
+Saudi 
+Mahasiswa di 
+Singapura, 
+Malaysia, 
+Timor Leste 
+dan Brunei 
+Darussalam 
+Mahasiswa di 
+Negara Selain 
+Arab Saudi, 
+Singapura, 
+Malaysia, Timor 
+Leste dan Brunei 
+Darussalam 
+(Rp) 
+5. 
+Sains Data 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+700.000 
+- 
+- 
+6. 
+Manajemen 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+7. 
+Ekonomi Pembangunan 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+8. 
+Ekonomi Syariah 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+9. 
+Akuntansi 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+190.000 
+- 
+- 
+10. 
+Akuntansi Keuangan Publik 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+350.000 
+- 
+- 
+11. 
+Pendidikan Bahasa dan Sastra 
+Indonesia 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+- 
+- 
+- 
+12. 
+Pendidikan Bahasa Inggris 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+- 
+- 
+- 
+13. 
+Pendidikan Biologi 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+1.000.000 
+- 
+- 
+14. 
+Pendidikan Fisika 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+1.000.000 
+- 
+- 
+15. 
+Pendidikan Kimia 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+1.000.000 
+- 
+- 
+16. 
+Pendidikan Matematika 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+- 
+- 
+- 
+
+*** PDF PAGE 72 ***
+ 
+ 
+ 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+41 
+No. 
+Program Studi 
+Biaya Mata Kuliah/Biaya Mata Kuliah Ulang 
+(Per sks) 
+Tuweb 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+Mahasiswa 
+di Arab 
+Saudi 
+Mahasiswa di 
+Singapura, 
+Malaysia, 
+Timor Leste 
+dan Brunei 
+Darussalam 
+Mahasiswa di 
+Negara Selain 
+Arab Saudi, 
+Singapura, 
+Malaysia, Timor 
+Leste dan Brunei 
+Darussalam 
+(Rp) 
+17. 
+Pendidikan Ekonomi 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+- 
+- 
+- 
+18. 
+Pendidikan Pancasila dan 
+Kewarganegara an 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+- 
+- 
+- 
+19. 
+Teknologi Pendidikan 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+350.000 
+- 
+- 
+20. 
+Pendidikan Guru Sekolah  
+Dasar 
+51.000 
+41.000 
+120.000 
+150.000 
+900.000 
+- 
+41.000 - 
+120.000 
+- 
+21. 
+Pendidikan Guru Pendidikan 
+Anak Usia Dini 
+51.000 
+41.000 
+120.000 
+150.000 
+700.000 
+- 
+41.000 - 
+120.000 
+- 
+22. 
+Statistika 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+23. 
+Matematika 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+24. 
+Biologi 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+700.000 
+- 
+- 
+25. 
+Teknologi Pangan 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+700.000 
+- 
+- 
+26. 
+Agribisnis 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+700.000 
+50.000 
+- 
+27. 
+Perencanaan Wilayah dan Kota 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+1.500.000 
+
+*** PDF PAGE 73 ***
+ 
+ 
+ 
+ 
+ 
+42 
+Pedoman  Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+No. 
+Program Studi 
+Biaya Mata Kuliah/Biaya Mata Kuliah Ulang 
+(Per sks) 
+Tuweb 
+Atpem 
+(Per MK) 
+Registrasi 
+Ulang 
+PKM/PLP 
+Registrasi 
+Ulang 
+Praktik/ 
+Praktikum 
+Registrasi 
+Ulang 
+Praktikum 
+Mandiri 
+Registrasi 
+Ulang 
+Praktik 
+Studio 
+Mahasiswa 
+di Arab 
+Saudi 
+Mahasiswa di 
+Singapura, 
+Malaysia, 
+Timor Leste 
+dan Brunei 
+Darussalam 
+Mahasiswa di 
+Negara Selain 
+Arab Saudi, 
+Singapura, 
+Malaysia, Timor 
+Leste dan Brunei 
+Darussalam 
+(Rp) 
+28. 
+Sistem Informasi 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+29. 
+Ilmu Administrasi Negara 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+30. 
+Ilmu Administrasi Bisnis 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+31. 
+Ilmu Pemerintahan 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+32. 
+Ilmu Komunikasi 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+33. 
+Ilmu Perpustakaan 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+450.000 
+- 
+- 
+34. 
+Sosiologi 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+35. 
+Sastra Inggris 
+51.000 
+41.000 
+120.000 
+150.000 
+- 
+- 
+- 
+- 
+*) Menunggu proses rekomendasi tarif UKT dari Kementerian Pendidikan Tinggi, Sains, dan Teknologi 
+ 
+ 
+ 
+ 
+ 
+
+*** PDF PAGE 74 ***
+ 
+ 
+ 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+43 
+3. Registrasi Ulang Tugas Akhir Program Sarjana (TAPS)*) 
+ 
+No. 
+Jenis Layanan 
+Biaya  
+1. Skripsi PKP 
+Rp 750.000 
+2. a. Skripsi  
+b. Skripsi (Penelitian Pendidikan) 
+c. Artikel Ilmiah 
+d. Proyek 
+e. Ujian Komprehensif Tertulis 
+Rp 400.000 
+*) Menunggu proses rekomendasi tarif UKT dari Kementerian Pendidikan Tinggi, Sains, dan Teknologi 
+
+*** PDF PAGE 75 ***
+44 
+Pedoman Sistem Penyelenggaraan Universitas Terbuka 2026/2027 
+ 
+ 
+Penjelasan UKT Variabel WNI di Luar Negeri disajikan pada tabel berikut. 
+ 
+Tabel 3.5 
+Penjelasan UKT Variabel WNI di Luar Negeri  
+ 
+1. 
+Registrasi Ulang Praktikum (Mandiri) 
+ 
+No. 
+Program Studi 
+Negara Domisili 
+Mahasiswa di 
+Arab Saudi 
+Mahasiswa di 
+Singapura, 
+Malaysia, Timor 
+Leste dan Brunei 
+Darussalam 
+Mahasiswa di 
+Negara Selain Arab 
+Saudi, Singapura, 
+Malaysia, Timor 
+Leste dan Brunei 
+Darussalam 
+(Per sks) 
+(Rp) 
+1. 
+Pendidikan Guru Sekolah Dasar 
+(In-service dan Pre-service) 
+51.000 
+41.000 
+120.000 
+2. 
+Pendidikan Guru Pendidikan Anak 
+Usia Dini 
+(In-service dan Pre-service) 
+51.000 
+41.000 
+120.000 
+ 
+2. 
+Ujian Online Berbasis Web 
+ 
+No. 
+Program Studi 
+Jenis Layanan 
+Pindah Jadwal 
+Ujian 
+(Per Mahasiswa/ 
+Mata Kuliah) 
+Bentuk Individual 
+(Per Mahasiswa/ 
+Mata Kuliah) 
+Bentuk Kelas 
+(Per Mahasiswa/ 
+Mata Kuliah) 
+(Rp) 
+1. 
+PJJ Pariwisata 
+150.000 
+300.000 
+450.000 
+2. 
+Ilmu Hukum 
+150.000 
+300.000 
+450.000 
+3. 
+Pendidikan Agama Islam 
+150.000 
+300.000 
+450.000 
+4. 
+Perpajakan 
+150.000 
+300.000 
+450.000 
+5. 
+Sains Data 
+150.000 
+300.000 
+450.000 
+6. 
+Manajemen 
+150.000 
+300.000 
+450.000 
+7. 
+Ekonomi Pembangunan 
+150.000 
+300.000 
+450.000 
+8. 
+Ekonomi Syariah 
+150.000 
+300.000 
+450.000 
+9. 
+Akuntansi 
+150.000 
+300.000 
+450.000 
+10. 
+Akuntansi Keuangan Publik 
+150.000 
+300.000 
+450.000 
+11. 
+Pendidikan Bahasa dan Sastra 
+Indonesia 
+150.000 
+300.000 
+450.000 
+

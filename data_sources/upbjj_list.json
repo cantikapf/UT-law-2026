@@ -1,0 +1,322 @@
+[
+  {
+    "no": 1,
+    "nama": "Layanan Luar Negeri",
+    "alamat": "Universitas Terbuka, Gedung Pelayanan Publik Lantai 2, Jl. Cabe Raya, Pondok Cabe, Pamulang, Tangerang Selatan 15437",
+    "telp": "021-7490941",
+    "email": "luarnegeri@ecampus.ut.ac.id",
+    "web": "luarnegeri.ut.ac.id"
+  },
+  {
+    "no": 2,
+    "nama": "Banda Aceh",
+    "alamat": "Jl. Pendidikan/Bahagia, Punge Blang Cut, Kec. Jaya Baru, Kota Banda Aceh 23234",
+    "telp": "0651-44749, 44750",
+    "email": "ut-bandaaceh@ecampus.ut.ac.id",
+    "web": "aceh.ut.ac.id"
+  },
+  {
+    "no": 3,
+    "nama": "Medan",
+    "alamat": "Jl. Bromo No. 29 Medan, Kel. Binjai, Kec. Medan Denai 20228",
+    "telp": "061-7323795, 7326261",
+    "email": "ut-medan@ecampus.ut.ac.id",
+    "web": "medan.ut.ac.id"
+  },
+  {
+    "no": 4,
+    "nama": "Batam",
+    "alamat": "Jl. Dr. Sutomo No. 3 Sekupang, Batam 29422",
+    "telp": "0778-323478",
+    "email": "ut-batam@ecampus.ut.ac.id",
+    "web": "batam.ut.ac.id"
+  },
+  {
+    "no": 5,
+    "nama": "Padang",
+    "alamat": "Jl. Raya By Pass Km.13 Sungai Sapih, Padang 25159",
+    "telp": "0811-6601414",
+    "email": "ut-padang@ecampus.ut.ac.id",
+    "web": "padang.ut.ac.id"
+  },
+  {
+    "no": 6,
+    "nama": "Pangkalpinang",
+    "alamat": "Jl. Pulau Bangka, Komplek Perkantoran dan Pemukiman Terpadu, Pemprov Kep. Bangka Belitung Air Hitam, Pangkal Pinang",
+    "telp": "0717-424986, 437949",
+    "email": "ut-pangkalpinang@ecampus.ut.ac.id",
+    "web": "pangkalpinang.ut.ac.id"
+  },
+  {
+    "no": 7,
+    "nama": "Pekanbaru",
+    "alamat": "Jl. Arifin Ahmad No. 111, Pekanbaru 28294",
+    "telp": "0761-589261",
+    "email": "ut-pekanbaru@ecampus.ut.ac.id",
+    "web": "pekanbaru.ut.ac.id"
+  },
+  {
+    "no": 8,
+    "nama": "Jambi",
+    "alamat": "Jl. Gajah Mada No.51, Lebak Bandung, Jelutung, Jambi 36135",
+    "telp": "0741-25753",
+    "email": "jambi@ecampus.ut.ac.id",
+    "web": "jambi.ut.ac.id"
+  },
+  {
+    "no": 9,
+    "nama": "Palembang",
+    "alamat": "Jln. Kol. H. Burlian KM. 10, Karya Baru, Alang-Alang Lebar, Palembang 30154",
+    "telp": "0711-5724000",
+    "email": "ut-palembang@ecampus.ut.ac.id",
+    "web": "palembang.ut.ac.id"
+  },
+  {
+    "no": 10,
+    "nama": "Bengkulu",
+    "alamat": "Jl. Sadang Raya, Kel. Lingkar Barat, Kota Bengkulu 38225",
+    "telp": "0736-26294",
+    "email": "ut-bengkulu@ecampus.ut.ac.id",
+    "web": "bengkulu.ut.ac.id"
+  },
+  {
+    "no": 11,
+    "nama": "Bandar Lampung",
+    "alamat": "Jl. Soekarno-Hatta No. 108B Rajabasa, Bandar Lampung 35144",
+    "telp": "0721-704772",
+    "email": "ut-bandarlampung@ecampus.ut.ac.id",
+    "web": "lampung.ut.ac.id"
+  },
+  {
+    "no": 12,
+    "nama": "Jakarta",
+    "alamat": "Jl. Ahmad Yani No. 43 (By pass) Kel. Utan Kayu, Kec. Matraman, Jakarta Timur",
+    "telp": "021-29613751, 29613753",
+    "email": "ut-jakarta@ecampus.ut.ac.id",
+    "web": "jakarta.ut.ac.id"
+  },
+  {
+    "no": 13,
+    "nama": "Serang",
+    "alamat": "Jl. Raya Jakarta Km. 7 Pakupatan, Serang, Banten 42122",
+    "telp": "0254-282728, 282721",
+    "email": "ut-serang@ecampus.ut.ac.id",
+    "web": "serang.ut.ac.id"
+  },
+  {
+    "no": 14,
+    "nama": "Bogor",
+    "alamat": "Jl. KH. Soleh Iskandar No. 234, Tanah Sereal, Bogor 16164",
+    "telp": "0251-7559237",
+    "email": "ut-bogor@ecampus.ut.ac.id",
+    "web": "bogor.ut.ac.id"
+  },
+  {
+    "no": 15,
+    "nama": "Bandung",
+    "alamat": "Jl. Panyileukan Raya No. 1 A, Soekarno-Hatta, Bandung 40614",
+    "telp": "022-7801791, 7801792",
+    "email": "bandung@ecampus.ut.ac.id",
+    "web": "bandung.ut.ac.id"
+  },
+  {
+    "no": 16,
+    "nama": "Purwokerto",
+    "alamat": "Jl. Kampus No. 54 Grendeng, Purwokerto 53122",
+    "telp": "0281-624317",
+    "email": "ut-purwokerto@ecampus.ut.ac.id",
+    "web": "purwokerto.ut.ac.id"
+  },
+  {
+    "no": 17,
+    "nama": "Semarang",
+    "alamat": "Jl. Raya Semarang-Kendal Km. 14,5, Mangkang Wetan, Semarang",
+    "telp": "024-8666044",
+    "email": "ut-semarang@ecampus.ut.ac.id",
+    "web": "semarang.ut.ac.id"
+  },
+  {
+    "no": 18,
+    "nama": "Surakarta",
+    "alamat": "Jl. Raya Solo-Tawangmangu Km 9,5 Mojolaban, Sukoharjo 57554",
+    "telp": "0271-822629, 822632",
+    "email": "ut-surakarta@ecampus.ut.ac.id",
+    "web": "surakarta.ut.ac.id"
+  },
+  {
+    "no": 19,
+    "nama": "Yogyakarta",
+    "alamat": "Jl. Bantul No. 81 Kel. Gedongkiwo, Kec. Mantrijeron, Yogyakarta",
+    "telp": "0274-411463, 411464",
+    "email": "ut-yogyakarta@ecampus.ut.ac.id",
+    "web": "yogyakarta.ut.ac.id"
+  },
+  {
+    "no": 20,
+    "nama": "Surabaya",
+    "alamat": "Jl. Dr. Ir. H. Soekarno No. 567 MERR Rungkut Surabaya",
+    "telp": "031-5961861, 5961862",
+    "email": "ut-surabaya@ecampus.ut.ac.id",
+    "web": "surabaya.ut.ac.id"
+  },
+  {
+    "no": 21,
+    "nama": "Malang",
+    "alamat": "Jl. Mayjen Sungkono No. 9, Malang 65145",
+    "telp": "0341-751600, 751608",
+    "email": "malang@ecampus.ut.ac.id",
+    "web": "malang.ut.ac.id"
+  },
+  {
+    "no": 22,
+    "nama": "Jember",
+    "alamat": "Jl. Kaliurang No. 2-A, Jember 68121",
+    "telp": "0331-326444",
+    "email": "jember@ecampus.ut.ac.id",
+    "web": "jember.ut.ac.id"
+  },
+  {
+    "no": 23,
+    "nama": "Denpasar",
+    "alamat": "Jalan Raya Sesetan No.121, Sesetan, Denpasar Selatan, Denpasar, Bali 80223",
+    "telp": "0361-2108064",
+    "email": "ut-denpasar@ecampus.ut.ac.id",
+    "web": "denpasar.ut.ac.id"
+  },
+  {
+    "no": 24,
+    "nama": "Mataram",
+    "alamat": "Jl. Soedjono No. 78 Jempong Baru, Kec. Sekarbela, Mataram, NTB 83361",
+    "telp": "0370-671006",
+    "email": "ut-mataram@ecampus.ut.ac.id",
+    "web": "mataram.ut.ac.id"
+  },
+  {
+    "no": 25,
+    "nama": "Kupang",
+    "alamat": "Jl. Pulau Indah No. 6, Oesapa Barat, Kupang 85228",
+    "telp": "0380-8553825",
+    "email": "ut-kupang@ecampus.ut.ac.id",
+    "web": "kupang.ut.ac.id"
+  },
+  {
+    "no": 26,
+    "nama": "Pontianak",
+    "alamat": "Jl. Karya Bakti, Pontianak 78121",
+    "telp": "0561-736107, 730291",
+    "email": "ut-pontianak@ecampus.ut.ac.id",
+    "web": "pontianak.ut.ac.id"
+  },
+  {
+    "no": 27,
+    "nama": "Palangka Raya",
+    "alamat": "Jl. G. Obos Km. 3,5 No. 177, Palangka Raya, Kalteng 73112",
+    "telp": "0536-3221084, 3306440",
+    "email": "ut-palangkaraya@ecampus.ut.ac.id",
+    "web": "palangkaraya.ut.ac.id"
+  },
+  {
+    "no": 28,
+    "nama": "Banjarmasin",
+    "alamat": "Jl. Sultan Adam No. 128 RT 26, Banjarmasin 70122",
+    "telp": "0511-4315675",
+    "email": "banjarmasin@ecampus.ut.ac.id",
+    "web": "banjarmasin.ut.ac.id"
+  },
+  {
+    "no": 29,
+    "nama": "Samarinda",
+    "alamat": "Jl. H.A.M.M. Rifaddin, Samarinda Seberang 75131",
+    "telp": "0541-7269108",
+    "email": "samarinda@ecampus.ut.ac.id",
+    "web": "samarinda.ut.ac.id"
+  },
+  {
+    "no": 30,
+    "nama": "Makassar",
+    "alamat": "Jl. Monginsidi Baru No. 7, Makassar 90142",
+    "telp": "0411-441444",
+    "email": "ut-makassar@ecampus.ut.ac.id",
+    "web": "makassar.ut.ac.id"
+  },
+  {
+    "no": 31,
+    "nama": "Majene",
+    "alamat": "Jl. Sultan Hasanuddin No. 2 Majene",
+    "telp": "0422-22224, 22229",
+    "email": "ut-majene@ecampus.ut.ac.id",
+    "web": "majene.ut.ac.id"
+  },
+  {
+    "no": 32,
+    "nama": "Palu",
+    "alamat": "Jl. Pendidikan, Jalur 2 Untad Tondo, Palu 94118",
+    "telp": "0451-452228",
+    "email": "ut-palu@ecampus.ut.ac.id",
+    "web": "palu.ut.ac.id"
+  },
+  {
+    "no": 33,
+    "nama": "Kendari",
+    "alamat": "Jl. A.H. Nasution, Kel. Kambu Bundaran Anduonohu, Kendari 93232",
+    "telp": "0401-3136035",
+    "email": "ut-kendari@ecampus.ut.ac.id",
+    "web": "kendari.ut.ac.id"
+  },
+  {
+    "no": 34,
+    "nama": "Manado",
+    "alamat": "Jl. Sam Ratulangi Raya Manado-Tomohon, Kec. Winangun, Manado, Sulut 95261",
+    "telp": "0431-822292",
+    "email": "ut-manado@ecampus.ut.ac.id",
+    "web": "manado.ut.ac.id"
+  },
+  {
+    "no": 35,
+    "nama": "Gorontalo",
+    "alamat": "Jl. Achmad Nadjamudin No. 27, Kel. Dulalowo Timur, Kec. Kota Tengah, Kota Gorontalo 96115",
+    "telp": "0435-831965",
+    "email": "ut-gorontalo@ecampus.ut.ac.id",
+    "web": "gorontalo.ut.ac.id"
+  },
+  {
+    "no": 36,
+    "nama": "Ambon",
+    "alamat": "Jl. Woltermonginsidi Lateri, Ambon 97231",
+    "telp": "0911-361303",
+    "email": "ut-ambon@ecampus.ut.ac.id",
+    "web": "ambon.ut.ac.id"
+  },
+  {
+    "no": 37,
+    "nama": "Ternate",
+    "alamat": "Jl. Raya Mangga Dua, Kota Ternate, Maluku Utara 97710",
+    "telp": "0921-3128352",
+    "email": "ut-ternate@ecampus.ut.ac.id",
+    "web": "ternate.ut.ac.id"
+  },
+  {
+    "no": 38,
+    "nama": "Jayapura",
+    "alamat": "Jl. SPG Teruna Bhakti Waena, Kotak pos 204 Abepura Jayapura Papua 99358",
+    "telp": "0967-571447",
+    "email": "ut-jayapura@ecampus.ut.ac.id",
+    "web": "jayapura.ut.ac.id"
+  },
+  {
+    "no": 39,
+    "nama": "Sorong",
+    "alamat": "Jl. Basuki Rahmat, KM 11,5 Sorong, Papua Barat",
+    "telp": "0951-321107",
+    "email": "ut-sorong@ecampus.ut.ac.id",
+    "web": "sorong.ut.ac.id"
+  },
+  {
+    "no": 40,
+    "nama": "Tarakan",
+    "alamat": "Jl. Mulawarman No. 234, Tarakan Barat, Tarakan, Kaltara 77111",
+    "telp": "0551-3808080",
+    "email": "ut-tarakan@ecampus.ut.ac.id",
+    "web": "tarakan.ut.ac.id"
+  }
+]
