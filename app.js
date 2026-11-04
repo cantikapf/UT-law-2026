@@ -27,24 +27,68 @@ document.addEventListener("DOMContentLoaded", function () {
   // 2. Desktop & Mobile Sidebar Navigation Controls (Left & Right Menus)
   const sidebarToggleBtn = document.getElementById("sidebarToggleBtn");
   const docSidebar = document.getElementById("docSidebar");
+  const docBackdrop = document.getElementById("docBackdrop");
+  const closeMobileSidebarBtn = document.getElementById("closeMobileSidebarBtn");
   const toggleLeftSidebarBtn = document.getElementById("toggleLeftSidebarBtn");
   const hideLeftSidebarInline = document.getElementById("hideLeftSidebarInline");
   const toggleRightSidebarBtn = document.getElementById("toggleRightSidebarBtn");
   const hideRightSidebarInline = document.getElementById("hideRightSidebarInline");
+  const sidebarDocSearch = document.getElementById("sidebarDocSearch");
+
+  function openMobileDrawer() {
+    if (docSidebar) docSidebar.classList.add("open");
+    if (docBackdrop) docBackdrop.classList.add("active");
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeMobileDrawer() {
+    if (docSidebar) docSidebar.classList.remove("open");
+    if (docBackdrop) docBackdrop.classList.remove("active");
+    document.body.style.overflow = "";
+  }
 
   // Mobile Drawer Toggle
   if (sidebarToggleBtn && docSidebar) {
     sidebarToggleBtn.addEventListener("click", () => {
-      docSidebar.classList.toggle("open");
+      if (docSidebar.classList.contains("open")) {
+        closeMobileDrawer();
+      } else {
+        openMobileDrawer();
+      }
     });
+
+    if (closeMobileSidebarBtn) {
+      closeMobileSidebarBtn.addEventListener("click", closeMobileDrawer);
+    }
+
+    if (docBackdrop) {
+      docBackdrop.addEventListener("click", closeMobileDrawer);
+    }
 
     // Close when clicking an anchor on mobile
     docSidebar.querySelectorAll(".doc-nav-anchor").forEach(a => {
       a.addEventListener("click", () => {
         if (window.innerWidth <= 860) {
-          docSidebar.classList.remove("open");
+          closeMobileDrawer();
         }
       });
+    });
+  }
+
+  // Search inside mobile sidebar drawer
+  if (sidebarDocSearch) {
+    sidebarDocSearch.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        const val = sidebarDocSearch.value.toLowerCase().trim();
+        if (!val) return;
+        if (courseSearchInput) {
+          courseSearchInput.value = val;
+          renderKurikulumBMP();
+          closeMobileDrawer();
+          const target = document.getElementById("kurikulum-bmp");
+          if (target) target.scrollIntoView({ behavior: "smooth" });
+        }
+      }
     });
   }
 
@@ -52,16 +96,20 @@ document.addEventListener("DOMContentLoaded", function () {
   const isLeftHidden = localStorage.getItem("ut_hide_sidebar_left") === "true";
   const isRightHidden = localStorage.getItem("ut_hide_sidebar_right") === "true";
 
-  if (isLeftHidden) {
+  if (isLeftHidden && window.innerWidth > 860) {
     document.body.classList.add("hide-sidebar-left");
     if (toggleLeftSidebarBtn) toggleLeftSidebarBtn.classList.add("is-collapsed");
   }
-  if (isRightHidden) {
+  if (isRightHidden && window.innerWidth > 860) {
     document.body.classList.add("hide-sidebar-right");
     if (toggleRightSidebarBtn) toggleRightSidebarBtn.classList.add("is-collapsed");
   }
 
   function toggleLeftSidebar() {
+    if (window.innerWidth <= 860) {
+      closeMobileDrawer();
+      return;
+    }
     const isNowHidden = document.body.classList.toggle("hide-sidebar-left");
     localStorage.setItem("ut_hide_sidebar_left", isNowHidden);
     if (toggleLeftSidebarBtn) {
@@ -70,6 +118,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function toggleRightSidebar() {
+    if (window.innerWidth <= 860) return;
     const isNowHidden = document.body.classList.toggle("hide-sidebar-right");
     localStorage.setItem("ut_hide_sidebar_right", isNowHidden);
     if (toggleRightSidebarBtn) {
@@ -85,7 +134,9 @@ document.addEventListener("DOMContentLoaded", function () {
   // Keyboard Shortcuts for Instant Toggle: [ for left sidebar, ] for right aside
   document.addEventListener("keydown", (e) => {
     if (["INPUT", "TEXTAREA", "SELECT"].includes(document.activeElement.tagName)) return;
-    if (e.key === "[") {
+    if (e.key === "Escape" && docSidebar && docSidebar.classList.contains("open")) {
+      closeMobileDrawer();
+    } else if (e.key === "[") {
       e.preventDefault();
       toggleLeftSidebar();
     } else if (e.key === "]") {
@@ -429,15 +480,24 @@ document.addEventListener("DOMContentLoaded", function () {
 
   renderUPBJJ();
 
-  // 8. Render FAQ Items
+  // 8. Render FAQ Items as Clean Collapsible Accordions
   const faqContainer = document.getElementById("faqContainer");
   if (faqContainer && DATA.faq) {
-    faqContainer.innerHTML = DATA.faq.map(item => `
-      <div class="doc-callout" style="margin: 16px 0;">
-        <div class="doc-callout-title">${item.q}</div>
-        <p style="margin-top: 4px; font-size: 14.5px; line-height: 1.6;">${item.a}</p>
+    faqContainer.innerHTML = `
+      <div class="doc-accordion-group">
+        ${DATA.faq.map((item, idx) => `
+          <details class="doc-accordion-item" ${idx === 0 ? "open" : ""}>
+            <summary class="doc-accordion-header">
+              <span class="doc-accordion-title">${item.q}</span>
+              <svg class="doc-accordion-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </summary>
+            <div class="doc-accordion-content">
+              <p>${item.a}</p>
+            </div>
+          </details>
+        `).join("")}
       </div>
-    `).join("");
+    `;
   }
 
   // 9. Interactive UKT Simulator
@@ -548,4 +608,20 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   window.addEventListener("scroll", updateScrollSpy, { passive: true });
+
+  // 12. Floating Back to Top Button
+  const backToTopBtn = document.getElementById("backToTopBtn");
+  if (backToTopBtn) {
+    backToTopBtn.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 380) {
+        backToTopBtn.classList.add("visible");
+      } else {
+        backToTopBtn.classList.remove("visible");
+      }
+    }, { passive: true });
+  }
 });

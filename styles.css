@@ -70,6 +70,7 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: calc(var(--header-height) + 24px);
   -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -82,6 +83,7 @@ body {
   display: flex;
   flex-direction: column;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 a {
@@ -166,9 +168,18 @@ code, kbd, samp, pre {
   background: transparent;
   border: 1px solid var(--line);
   border-radius: var(--radius-sm);
-  padding: 6px;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
   color: var(--ink);
   cursor: pointer;
+  transition: all 120ms ease;
+}
+
+.doc-menu-btn:hover {
+  background-color: var(--hover);
 }
 
 .doc-brand {
@@ -279,6 +290,23 @@ code, kbd, samp, pre {
   background-color: var(--hover);
 }
 
+.doc-backdrop {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.45);
+  z-index: 85;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 200ms ease, visibility 200ms ease;
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+}
+
+.doc-backdrop.active {
+  opacity: 1;
+  visibility: visible;
+}
+
 /* ==========================================================================
    LAYOUT SHELL (SIDEBAR + MAIN + ON-THIS-PAGE TOC)
    ========================================================================== */
@@ -351,6 +379,37 @@ body.hide-sidebar-left .doc-sidebar {
   background-color: var(--hover);
   color: var(--ink);
   border-color: var(--line-strong);
+}
+
+.doc-sidebar-close-btn {
+  display: none;
+  background: transparent;
+  border: 1px solid var(--line);
+  font-size: 18px;
+  line-height: 1;
+  color: var(--ink);
+  cursor: pointer;
+  width: 28px;
+  height: 28px;
+  border-radius: var(--radius-sm);
+  align-items: center;
+  justify-content: center;
+  transition: all 120ms ease;
+}
+
+.doc-sidebar-close-btn:hover {
+  background-color: var(--hover);
+}
+
+.doc-sidebar-search-wrap {
+  display: none;
+  margin-bottom: 16px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--line);
+}
+
+.doc-sidebar-search-wrap .doc-search-input {
+  padding-left: 12px;
 }
 
 .doc-nav-group {
@@ -1064,10 +1123,118 @@ body.hide-sidebar-right .doc-aside {
 .doc-references-list li {
   margin-bottom: 8px;
   line-height: 1.5;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .doc-references-list a {
   color: var(--ink-2);
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* 9. Minimalist Accordion (FAQ Component) */
+.doc-accordion-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0 32px;
+}
+
+.doc-accordion-item {
+  background-color: var(--canvas);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  transition: border-color 140ms ease, background-color 140ms ease;
+}
+
+.doc-accordion-item[open] {
+  border-color: var(--line-strong);
+  background-color: var(--surface-subtle);
+}
+
+.doc-accordion-header {
+  padding: 14px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.doc-accordion-header::-webkit-details-marker {
+  display: none;
+}
+
+.doc-accordion-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.4;
+}
+
+.doc-accordion-icon {
+  flex-shrink: 0;
+  color: var(--ink-3);
+  transition: transform 180ms ease, color 140ms ease;
+}
+
+.doc-accordion-item[open] .doc-accordion-icon {
+  transform: rotate(180deg);
+  color: var(--ink);
+}
+
+.doc-accordion-content {
+  padding: 0 16px 16px;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  border-top: 1px solid transparent;
+}
+
+.doc-accordion-content p {
+  margin: 0;
+}
+
+/* 10. Floating Back to Top Button */
+.doc-back-to-top {
+  position: fixed;
+  bottom: 24px;
+  right: 20px;
+  width: 42px;
+  height: 42px;
+  border-radius: var(--radius-pill);
+  background-color: var(--ink);
+  color: var(--ink-inverse);
+  border: 1px solid var(--line-strong);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+  cursor: pointer;
+  z-index: 80;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(12px);
+  transition: opacity 200ms ease, transform 200ms ease, visibility 200ms ease;
+}
+
+.doc-back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.doc-back-to-top:hover {
+  opacity: 0.85;
+  transform: translateY(-2px);
+}
+
+.doc-table-scroll-hint {
+  display: none;
 }
 
 /* Footer */
@@ -1080,7 +1247,9 @@ body.hide-sidebar-right .doc-aside {
   background-color: var(--canvas);
 }
 
-/* Responsive Breakpoints */
+/* ==========================================================================
+   RESPONSIVE BREAKPOINTS (Mobile & Tablet Optimization)
+   ========================================================================== */
 @media (max-width: 1180px) {
   .doc-aside {
     display: none;
@@ -1088,39 +1257,296 @@ body.hide-sidebar-right .doc-aside {
 }
 
 @media (max-width: 860px) {
+  /* Header Mobile Optimization */
+  .doc-header {
+    padding: 0 14px;
+    height: 52px;
+  }
+
+  .doc-header-left {
+    gap: 8px;
+  }
+
+  .doc-menu-btn {
+    display: inline-flex;
+  }
+
+  /* Hide Desktop Toggle Buttons, Desktop Nav Links & Badges to Prevent Header Blowout */
+  .doc-panel-toggle-btn,
+  .doc-nav-link,
+  .doc-brand-badge {
+    display: none !important;
+  }
+
+  .doc-brand {
+    gap: 8px;
+  }
+
+  .doc-brand-title {
+    font-size: 13.5px;
+    max-width: 170px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
   .doc-header-search {
     display: none;
   }
 
-  .doc-menu-btn {
+  .doc-theme-btn {
+    padding: 5px 9px;
+    font-size: 11.5px;
+  }
+
+  /* Mobile Drawer Navigation */
+  .doc-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100vh;
+    height: 100dvh;
+    width: min(320px, 86vw);
+    background-color: var(--canvas);
+    z-index: 95;
+    transform: translateX(-100%);
+    transition: transform 220ms cubic-bezier(0.16, 1, 0.3, 1);
+    box-shadow: 4px 0 24px rgba(0, 0, 0, 0.16);
+    padding: 16px 16px 64px;
+  }
+
+  /* Critical fix: .open must override desktop hide-sidebar-left rules */
+  .doc-sidebar.open {
+    transform: translateX(0) !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    pointer-events: auto !important;
+    margin-left: 0 !important;
+  }
+
+  .doc-sidebar-hide-action {
+    display: none !important;
+  }
+
+  .doc-sidebar-close-btn {
+    display: inline-flex;
+  }
+
+  .doc-sidebar-search-wrap {
     display: block;
   }
 
-  .doc-sidebar {
-    position: fixed;
-    top: var(--header-height);
-    left: 0;
-    bottom: 0;
-    background-color: var(--canvas);
-    z-index: 90;
-    transform: translateX(-100%);
-    transition: transform 200ms ease;
-    box-shadow: 2px 0 16px rgba(0, 0, 0, 0.1);
-  }
-
-  .doc-sidebar.open {
-    transform: translateX(0);
-  }
-
   .doc-main {
-    padding: 24px 20px 64px;
+    padding: 24px 18px 72px;
   }
 
   .doc-hero-title {
     font-size: 26px;
   }
 
+  /* Filter Group turns into horizontal scrollable rail */
+  .doc-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin: 14px 0 10px;
+  }
+
+  .doc-btn-group {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    gap: 6px;
+    padding-bottom: 4px;
+    max-width: 100%;
+  }
+
+  .doc-btn-group::-webkit-scrollbar {
+    display: none;
+  }
+
+  .doc-btn {
+    flex-shrink: 0;
+    white-space: nowrap;
+    padding: 6px 11px;
+    font-size: 12px;
+  }
+
+  .doc-filter-input {
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+
+  /* Table Mobile Responsiveness & Sticky Identifier */
+  .doc-table-wrap {
+    margin: 14px 0 20px;
+    border-radius: var(--radius-sm);
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .doc-table-wrap::before {
+    content: "← Geser ke kanan untuk rincian penuh →";
+    display: block;
+    position: sticky;
+    left: 0;
+    font-size: 11px;
+    color: var(--ink-3);
+    padding: 5px 12px;
+    background-color: var(--surface-subtle);
+    border-bottom: 1px solid var(--line);
+    font-style: italic;
+    white-space: nowrap;
+    z-index: 4;
+  }
+
+  .doc-table th,
+  .doc-table td {
+    padding: 9px 10px;
+    font-size: 12.5px;
+  }
+
+  .doc-table th:first-child,
+  .doc-table td:first-child {
+    position: sticky;
+    left: 0;
+    background-color: var(--canvas);
+    z-index: 2;
+    box-shadow: 1px 0 0 var(--line);
+  }
+
+  .doc-table th:first-child {
+    background-color: var(--fill);
+    z-index: 3;
+  }
+
+  .doc-table tr:hover td:first-child {
+    background-color: var(--hover);
+  }
+
+  .doc-table-scroll-hint {
+    display: block;
+    font-size: 11.5px;
+    color: var(--ink-3);
+    margin-top: -10px;
+    margin-bottom: 14px;
+    font-style: italic;
+  }
+
+  /* Stat Grid & Components */
+  .doc-stat-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+    margin: 18px 0;
+  }
+
+  .doc-stat-card {
+    padding: 10px 12px;
+  }
+
+  .doc-stat-label {
+    font-size: 11px;
+  }
+
+  .doc-stat-value {
+    font-size: 15px;
+  }
+
+  .doc-stat-sub {
+    font-size: 10.5px;
+  }
+
+  .doc-step-flow {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .doc-calc-box {
+    padding: 18px;
+    margin: 16px 0 24px;
+  }
+
   .doc-calc-result-grid {
     grid-template-columns: 1fr;
+    gap: 12px;
+    padding: 12px;
+  }
+
+  .doc-orientation-card {
+    padding: 18px;
+    margin-bottom: 24px;
+  }
+
+  .doc-orientation-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+
+  .doc-cost-sem-detail {
+    padding: 14px;
+  }
+
+  .doc-callout {
+    padding: 14px 16px;
+    margin: 18px 0;
+    font-size: 13.5px;
+  }
+}
+
+@media (max-width: 480px) {
+  .doc-main {
+    padding: 20px 14px 64px;
+  }
+
+  .doc-hero-title {
+    font-size: 22px;
+  }
+
+  .doc-lead {
+    font-size: 15px;
+    margin-bottom: 24px;
+  }
+
+  .doc-chapter-title {
+    font-size: 20px;
+  }
+
+  .doc-subheading {
+    font-size: 16px;
+    margin: 28px 0 10px;
+  }
+
+  .doc-brand-title {
+    max-width: 135px;
+  }
+
+  .doc-cost-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .doc-cost-card {
+    padding: 14px;
+  }
+
+  .doc-cost-card-val {
+    font-size: 19px;
+  }
+
+  .doc-footer {
+    padding: 24px 14px;
+    font-size: 11.5px;
+  }
+
+  .doc-back-to-top {
+    bottom: 18px;
+    right: 14px;
+    width: 38px;
+    height: 38px;
   }
 }

@@ -9,6 +9,9 @@
 </head>
 <body>
 
+  <!-- Mobile Backdrop Overlay -->
+  <div class="doc-backdrop" id="docBackdrop"></div>
+
   <!-- Top Masthead / Navigation Bar -->
   <header class="doc-header">
     <div class="doc-header-left">
@@ -52,9 +55,15 @@
     <nav class="doc-sidebar" id="docSidebar" aria-label="Navigasi Dokumentasi">
       <div class="doc-sidebar-header-bar">
         <span class="doc-sidebar-header-title">Menu Navigasi</span>
+        <button class="doc-sidebar-close-btn" id="closeMobileSidebarBtn" aria-label="Tutup menu navigasi">&times;</button>
         <button class="doc-sidebar-hide-action" id="hideLeftSidebarInline" title="Sembunyikan menu navigasi (Shortcut: [ )">
           <span>Sembunyikan</span> &larr;
         </button>
+      </div>
+
+      <!-- Mobile In-Sidebar Search -->
+      <div class="doc-sidebar-search-wrap">
+        <input type="text" id="sidebarDocSearch" class="doc-search-input" placeholder="Cari materi dokumentasi..." aria-label="Cari dokumentasi di menu">
       </div>
 
       <div class="doc-nav-group">
@@ -1021,6 +1030,11 @@
       <div>Disarikan secara verbatim dan objektif dari Pedoman Penyelenggaraan, Katalog Non-Pendas, Kalender Akademik, dan Toko Buku Online Karunika 2026/2027.</div>
     </div>
   </footer>
+
+  <!-- Floating Back to Top Button -->
+  <button class="doc-back-to-top" id="backToTopBtn" aria-label="Kembali ke atas dokumen" title="Kembali ke atas">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>
+  </button>
 
   <!-- Scripts -->
   <script src="data.js"></script>
